@@ -1,0 +1,2156 @@
+[
+  {
+    "entry_id": "zhenning-gaodang-village",
+    "entry_no": "C1",
+    "entry_type": "place",
+    "title": "高荡村·石干栏与“四落腔”",
+    "subtitle": "石头垒起来的千年布依古寨",
+    "category": [
+      "古村落",
+      "布依族",
+      "石头建筑"
+    ],
+    "region": "镇宁自治县·高荡村",
+    "coordinates": {
+      "lat": 26.005,
+      "lng": 105.705
+    },
+    "chapter_index": 0,
+    "scroll_anchor": "stone",
+    "hero_media": {
+      "type": "none"
+    },
+    "summary": "高荡村位于镇宁自治县西南、黄果树上游的桫椤河畔，有近千年历史，是目前保留最完善的布依族村寨之一。村中房屋以石为墙、以石为瓦，为石木结构干栏式石板房，建造时间多在明、清时期。相传伍姓族人寻羊发现山泉而定居，后与姻亲杨姓共同发展；布依语称此地为“瓮座”，意即“高荡”。",
+    "claims": [
+      {
+        "text": "高荡村位于镇宁自治县西南，坐落在黄果树上游的桫椤河畔，有着近千年历史，是目前保留最完善的布依族村寨之一。",
+        "source_ids": [
+          "rmrb-gaodang"
+        ],
+        "variant": "地理位置",
+        "confidence": "direct"
+      },
+      {
+        "text": "村中房屋以石为墙、以石为瓦，为石木结构干栏式石板房，建造时间多在明、清时期。",
+        "source_ids": [
+          "rmrb-gaodang",
+          "cnr-gaodang"
+        ],
+        "variant": "石头建筑",
+        "confidence": "direct"
+      },
+      {
+        "text": "古寨现存保存完好的干栏式石板房民居151栋423间，占地22000余平方米，多为一正两厢、四面开窗格局。",
+        "source_ids": [
+          "baike-gaodang"
+        ],
+        "variant": "建筑规模",
+        "confidence": "secondary"
+      },
+      {
+        "text": "相传伍姓族人牧羊时羊只走失，追至山泉旁见四面环山适宜居住，遂与姻亲杨姓共同迁居，逐渐形成村落。",
+        "source_ids": [
+          "baike-gaodang"
+        ],
+        "variant": "建寨传说",
+        "confidence": "secondary"
+      },
+      {
+        "text": "2013年8月高荡村列入第二批中国传统村落名录，2015年获首批“中国少数民族特色村寨”称号。",
+        "source_ids": [
+          "rmrb-gaodang"
+        ],
+        "variant": "认定与称号",
+        "confidence": "direct"
+      }
+    ],
+    "sources": [
+      {
+        "id": "rmrb-gaodang",
+        "title": "布依石头寨　美景引客来（寻找最美乡村·高荡村）",
+        "url": "https://paper.people.com.cn/rmrb/pc/content/202502/19/content_30057531.html",
+        "publisher": "人民日报",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "高荡村位于贵州省安顺市镇宁布依族苗族自治县西南，坐落在黄果树上游的桫椤河畔",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "cnr-gaodang",
+        "title": "贵州镇宁布依族古村落高荡村：民族文化就是“宝贝”",
+        "url": "http://gz.cnr.cn/zhongdianliutiao/20210715/t20210715_525535371.shtml",
+        "publisher": "央广网",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "石瓦、石墙、石井、石巷、石器……这是一座全部与石头有关的村子",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "baike-gaodang",
+        "title": "安顺市镇宁高荡千年布依古寨旅游景区",
+        "url": "https://baike.baidu.com/item/%E5%AE%89%E9%A1%BA%E5%B8%82%E9%95%87%E5%AE%81%E9%AB%98%E8%8D%A1%E5%8D%83%E5%B9%B4%E5%B8%83%E4%BE%9D%E5%8F%A4%E5%AF%A8%E6%97%85%E6%B8%B8%E6%99%AF%E5%8C%BA/65076155",
+        "publisher": "百度百科",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "建寨历史可追溯至明洪武十四年（1381年），据传因伍姓族人寻羊发现山泉而定居，后与杨姓共同发展",
+        "media": {
+          "type": "none"
+        }
+      }
+    ],
+    "traceability": "A/B",
+    "notes": "石板房形制与村史据人民日报、央广网，属直接采访；建寨传说与建筑间数出自百科，为二级转述。所谓“四落腔”唱法未获可引用来源，本条未立此说，须田野补录。",
+    "tags": [
+      "布依族",
+      "石板房",
+      "传统村落",
+      "干栏建筑",
+      "镇宁"
+    ],
+    "related_entry_ids": [
+      "zhenning-buyi-cuisine",
+      "zhenning-citywalk-axis"
+    ],
+    "narrative": {
+      "hook": "一座村子把整座山的石头用尽了，连屋顶也是石头。",
+      "scene": "沿桫椤河往上走，石墙夹出窄巷，脚下石板被磨得发亮。屋顶一片片石板压着，缝里长出细草。老人坐在石门坎上，身后是四面开窗的堂屋。"
+    }
+  },
+  {
+    "entry_id": "zhenning-wudefen-batik",
+    "entry_no": "C2",
+    "entry_type": "person",
+    "title": "伍德芬与扁担山凹子寨蜡染",
+    "subtitle": "以蜡为墨的布依族染织匠人",
+    "category": [
+      "非遗传承人",
+      "蜡染",
+      "布依族"
+    ],
+    "region": "镇宁自治县·扁担山镇凹子寨",
+    "coordinates": {
+      "lat": 26.03,
+      "lng": 105.66
+    },
+    "chapter_index": 2,
+    "scroll_anchor": "wax",
+    "hero_media": {
+      "type": "none"
+    },
+    "summary": "伍德芬是镇宁自治县扁担山镇凹子寨的蜡染师傅，2014年创办镇宁自治县美的锦光蜡染厂，从8名员工、5台织布机、200平方米工作室、10万元注册资金起步，后生产区扩展到1200平方米。2020年贵州省第五批省级非遗代表性传承人公示名单中，她以“安顺蜡染（布依族蜡染技艺）”一项列入。",
+    "claims": [
+      {
+        "text": "伍德芬是镇宁自治县扁担山镇凹子寨有名的蜡染师傅，在厂里与绣娘一同手捏蜡刀，在白布上“画画”。",
+        "source_ids": [
+          "people-wudefen"
+        ],
+        "variant": "身份与地点",
+        "confidence": "direct"
+      },
+      {
+        "text": "2014年她成立镇宁自治县美的锦光蜡染厂，最初为8名员工、5台织布机、200平方米工作室、10万元注册资金。",
+        "source_ids": [
+          "people-wudefen"
+        ],
+        "variant": "建厂起点",
+        "confidence": "direct"
+      },
+      {
+        "text": "蜡染厂生产区后扩展到1200平方米，拥有画、织、染成品制作生产线，产品销往上海、广州、深圳、北京等地。",
+        "source_ids": [
+          "people-wudefen"
+        ],
+        "variant": "现状规模",
+        "confidence": "direct"
+      },
+      {
+        "text": "2020年贵州省第五批省级非遗代表性传承人公示名单中，伍德芬以安顺蜡染（布依族蜡染技艺）列入。",
+        "source_ids": [
+          "gz-ccr-2020"
+        ],
+        "variant": "传承人认定",
+        "confidence": "secondary"
+      },
+      {
+        "text": "厂内员工均为本镇蜡染、刺绣、织锦能手，妇女可到厂领取绣花线、织锦线等原料在家做工，实现居家就业。",
+        "source_ids": [
+          "people-wudefen"
+        ],
+        "variant": "带动就业",
+        "confidence": "direct"
+      }
+    ],
+    "sources": [
+      {
+        "id": "people-wudefen",
+        "title": "非遗传承人伍德芬：以蜡为墨　“绘”出致富“蓝图”",
+        "url": "http://gz.people.com.cn/n2/2022/0614/c361324-35314466.html",
+        "publisher": "人民网贵州频道",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "走进位于扁担山镇凹子寨镇宁自治县美的锦光蜡染厂，伍德芬正和绣娘们正手捏蜡刀",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "gz-ccr-2020",
+        "title": "名单公示！贵州省第五批省级非遗代表性传承人",
+        "url": "https://163.com/dy/article/FS4VKQ880534C5XG.html",
+        "publisher": "网易号（转载公示名单）",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "蓝靛制作技艺 70 伍德芬 女 布依族 安顺市镇宁县 安顺蜡染（布依族蜡染技艺）",
+        "media": {
+          "type": "none"
+        }
+      }
+    ],
+    "traceability": "B",
+    "notes": "厂史与带动就业据人民网，属直接采访。省级传承人身份出自2020年公示名单的自媒体转载，人民网原文只称“非遗传承人”未直书“省级”，须以省文旅厅正式名录复核。",
+    "tags": [
+      "蜡染",
+      "非遗传承人",
+      "扁担山",
+      "布依族",
+      "妇女就业"
+    ],
+    "related_entry_ids": [
+      "zhenning-gaodang-village",
+      "zhenning-buyi-cuisine"
+    ],
+    "narrative": {
+      "hook": "一把铜蜡刀，在白布上画出的线，最后会变成蓝。",
+      "scene": "屋子中间架着长木案，白布铺开。她捏着蜡刀在布上走线，蜡一落就凝住。旁边织机响一阵停一阵，染缸的蓝靛味从后院飘进来，手指始终没停。"
+    }
+  },
+  {
+    "entry_id": "zhenning-zhangwanquan-dixi",
+    "entry_no": "C3",
+    "entry_type": "person",
+    "title": "张万全与新苑村地戏“脸子”",
+    "subtitle": "江龙镇新苑村的地戏面具工艺",
+    "category": [
+      "地戏",
+      "面具",
+      "非遗"
+    ],
+    "region": "镇宁自治县·江龙镇新苑村",
+    "coordinates": {
+      "lat": 26.12,
+      "lng": 105.86
+    },
+    "chapter_index": 3,
+    "scroll_anchor": "opera",
+    "hero_media": {
+      "type": "none"
+    },
+    "summary": "地戏面具俗称“脸子”，多用丁木或杨木刻制，取材质易得、木质细且疤结少，便于用刀。雕刻分截材、剖半、出坯、驾马起工、开工、开光等环节，开光后木面具被视为神灵，平时收于神柜。新苑村属江龙镇，距镇宁县城18公里，地处黄龙湖水系上游，村域内有十九孔桥景区。",
+    "claims": [
+      {
+        "text": "地戏面具俗称“脸子”，是用丁木或杨木刻制而成，取这两种木料一是取材容易，二是木质细、疤结少，便于用刀。",
+        "source_ids": [
+          "ihchina-dixi"
+        ],
+        "variant": "脸子选材",
+        "confidence": "direct"
+      },
+      {
+        "text": "面具刻制分截材、剖半、出坯、驾马起工、开工、开光等环节，开光后木制面具被视作神灵，平时收于神柜。",
+        "source_ids": [
+          "ihchina-dixi"
+        ],
+        "variant": "雕刻工序",
+        "confidence": "direct"
+      },
+      {
+        "text": "开脸有口诀：眉毛“少将一支箭，女将一根线，武将如火焰”，眼睛“武将鼓眼亮，女将弯月长”。",
+        "source_ids": [
+          "ihchina-dixi"
+        ],
+        "variant": "开脸口诀",
+        "confidence": "direct"
+      },
+      {
+        "text": "新苑村位于江龙镇中西部，距镇宁县城18公里，地处黄龙湖水系上游，属黄龙湖建设淹地不搬迁的村之一。",
+        "source_ids": [
+          "tcmap-xinyuan"
+        ],
+        "variant": "村落区位",
+        "confidence": "secondary"
+      },
+      {
+        "text": "江龙镇按“龙头企业+配套”模式引进专业化公司，对新苑村十九孔桥景区进行打造运营，带动周边乡村旅游。",
+        "source_ids": [
+          "qq-zhenning-tourism"
+        ],
+        "variant": "村落现状",
+        "confidence": "direct"
+      }
+    ],
+    "sources": [
+      {
+        "id": "ihchina-dixi",
+        "title": "戏剧的活化石――地戏",
+        "url": "https://www.ihchina.cn/project_details/10919.html",
+        "publisher": "中国非物质文化遗产网·中国非物质文化遗产数字博物馆",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "地戏面具俗称“脸子”，是用丁木或杨木刻制而成，用此两种木料，一是取材容易",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "tcmap-xinyuan",
+        "title": "镇宁县江龙镇新苑村",
+        "url": "http://www.tcmap.com.cn/guizhou/zhenningbuyizumiaozuzizhixian_duobolongxiang_xinyuancun.html",
+        "publisher": "博雅地名网",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "新苑村位于朵卜陇乡中西部，东与本乡高坡村、西达到村、南与永安村接壤",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "qq-zhenning-tourism",
+        "title": "镇宁：农文旅体融合 激活县域发展动能",
+        "url": "https://news.qq.com/rain/a/20250729A09N2B00",
+        "publisher": "腾讯新闻",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "江龙镇按照“龙头企业+配套”发展模式，引进专业化公司对新苑村十九孔桥景区进行打造运营",
+        "media": {
+          "type": "none"
+        }
+      }
+    ],
+    "traceability": "C",
+    "notes": "张万全本人的省级传承人身份、新苑村二组住址及个人从艺经历，均未检索到可引用来源，本条暂以脸子工艺与村落背景立论；人物部分须田野访谈或省文旅厅名录补核。",
+    "tags": [
+      "地戏",
+      "脸子",
+      "面具雕刻",
+      "江龙镇",
+      "新苑村"
+    ],
+    "related_entry_ids": [
+      "zhenning-dixi-villages",
+      "zhenning-changjiaozhai-dixi"
+    ],
+    "narrative": {
+      "hook": "一块杨木，先被剖成两半，再被刻成一张脸。",
+      "scene": "堂屋里架起马凳，木坯夹在两膝之间，刻刀一下一下往里剔。地上落满木屑，墙角摆着几尊已上彩的脸子，眼睛鼓着，还没开光，只等开脸的最后一道。"
+    }
+  },
+  {
+    "entry_id": "zhenning-changjiaozhai-dixi",
+    "entry_no": "C4",
+    "entry_type": "place",
+    "title": "长脚寨布依族地戏",
+    "subtitle": "一个待补田野的村落地戏个案",
+    "category": [
+      "地戏",
+      "布依族",
+      "村落"
+    ],
+    "region": "镇宁自治县·长脚寨",
+    "coordinates": {
+      "lat": 26.07,
+      "lng": 105.83
+    },
+    "chapter_index": 3,
+    "scroll_anchor": "opera",
+    "hero_media": {
+      "type": "none"
+    },
+    "summary": "安顺地戏主要分布在以安顺西秀区为中心，包括平坝、普定、镇宁、关岭、紫云等地的村寨中。一个地戏队跳一部书称一堂，全省约370多堂，安顺市所属各区县有300堂。演出程序分开箱、请神、顶神、扫开场、跳神、扫收场、封箱，只演武戏不演文戏，演员首蒙青巾、腰围战裙、戴假面于额前。",
+    "claims": [
+      {
+        "text": "地戏主要分布在以安顺西秀区为中心，包括邻近的平坝、普定、镇宁、关岭、紫云、清镇、长顺等地的村寨中。",
+        "source_ids": [
+          "ihchina-dixi",
+          "wiki-dixi"
+        ],
+        "variant": "分布范围",
+        "confidence": "direct"
+      },
+      {
+        "text": "一个地戏队跳一部书称为一堂，全省约有370多堂，安顺市所属各区县有300堂，仅西秀区就有192堂。",
+        "source_ids": [
+          "ihchina-dixi"
+        ],
+        "variant": "戏堂统计",
+        "confidence": "direct"
+      },
+      {
+        "text": "地戏演出程序一般分为开箱、请神、顶神、扫开场、跳神、扫收场、封箱，跳神为正式演出部分。",
+        "source_ids": [
+          "wiki-dixi"
+        ],
+        "variant": "演出程序",
+        "confidence": "direct"
+      },
+      {
+        "text": "地戏只演武戏不演文戏，剧目多为薛家将、杨家将、岳家将、三国等金戈铁马的征战故事。",
+        "source_ids": [
+          "baike-anshun-dixi"
+        ],
+        "variant": "剧目内容",
+        "confidence": "secondary"
+      },
+      {
+        "text": "地戏演员首蒙青巾、腰围战裙，戴假面于额前，手执戈矛刀戟，随口歌唱、应声而舞。",
+        "source_ids": [
+          "ihchina-dixi"
+        ],
+        "variant": "表演形态",
+        "confidence": "direct"
+      }
+    ],
+    "sources": [
+      {
+        "id": "ihchina-dixi",
+        "title": "戏剧的活化石――地戏",
+        "url": "https://www.ihchina.cn/project_details/10919.html",
+        "publisher": "中国非物质文化遗产网·中国非物质文化遗产数字博物馆",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "主要分布在以安顺西秀区为中心，包括邻近的平坝、普定、镇宁、关岭、紫云、清镇、长顺",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "wiki-dixi",
+        "title": "地戏",
+        "url": "https://zh.wikipedia.org/zh-hans/%E5%9C%B0%E6%88%8F",
+        "publisher": "维基百科",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "地戏的演出程序一般分为“开箱”、“请神”、“顶神”、“扫开场”、“跳神”",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "baike-anshun-dixi",
+        "title": "安顺地戏",
+        "url": "https://baike.baidu.com/item/%E5%AE%89%E9%A1%BA%E5%9C%B0%E6%88%8F/8346114",
+        "publisher": "百度百科",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "内容以金戈铁马的征战故事为主，没有才子佳人戏、清官公案戏、绿林反叛戏",
+        "media": {
+          "type": "none"
+        }
+      }
+    ],
+    "traceability": "C",
+    "notes": "讨论长脚寨地戏的学术论文仅检索到题录线索，全文未获取；该村地戏的班社、剧目、传承谱系均无来源支撑。本条只立安顺地戏整体框架，长脚寨个案须补论文原文与田野。",
+    "tags": [
+      "地戏",
+      "长脚寨",
+      "布依族",
+      "村落",
+      "待核"
+    ],
+    "related_entry_ids": [
+      "zhenning-dixi-villages",
+      "zhenning-zhangwanquan-dixi"
+    ],
+    "narrative": {
+      "hook": "稻田收完之后，晒谷场就成了戏台。",
+      "scene": "锣一响，鼓一跟，戴脸子的人从人群外走进场心。青巾蒙头，战裙扫过地面，木刀木枪碰在一起，声音干而脆。围观的人不说话，只往后退半步。"
+    }
+  },
+  {
+    "entry_id": "zhenning-bobotang-origins",
+    "entry_no": "C5",
+    "entry_type": "thematic",
+    "title": "波波糖：两种起源说与“刘记号”",
+    "subtitle": "宫廷小点与钟鼓楼脚两说并置",
+    "category": [
+      "传统技艺",
+      "糖食",
+      "非遗"
+    ],
+    "region": "镇宁自治县·环翠街道（老城）",
+    "coordinates": {
+      "lat": 26.058,
+      "lng": 105.769
+    },
+    "chapter_index": 4,
+    "scroll_anchor": "sugar",
+    "hero_media": {
+      "type": "none"
+    },
+    "summary": "波波糖的来历有两种并行说法：一说原为镇宁附近苗族王宫中的宫廷小点，制法后流传民间；一说清咸丰年间镇宁州知州征集糖食，钟鼓楼脚刘家老曾祖刘兴汉以芝麻、糯米、麦子试制而成。因落口即酥、制作时糖浆如水波荡漾，又名落口酥、波波酥。该制作工艺已列入贵州省级非遗名录。",
+    "claims": [
+      {
+        "text": "宫廷说：波波糖相传原是镇宁附近苗族王宫中的宫廷小点，后来其制作方法流传出来，经过不断加工才形成波波糖。",
+        "source_ids": [
+          "baike-bobotang"
+        ],
+        "variant": "宫廷说",
+        "confidence": "secondary"
+      },
+      {
+        "text": "刘兴汉说：清咸丰年间镇宁州知州为发展糖食向民间征集制品，钟鼓楼脚刘家老曾祖刘兴汉以当地芝麻、糯米、麦子试制成功。",
+        "source_ids": [
+          "baike-bobotang"
+        ],
+        "variant": "刘兴汉说",
+        "confidence": "secondary"
+      },
+      {
+        "text": "因落口即酥、制作过程中糖浆多如水波荡漾，所以又名落口酥、波波酥、波波糖，初名饽饽糖。",
+        "source_ids": [
+          "baike-bobotang"
+        ],
+        "variant": "名称由来",
+        "confidence": "secondary"
+      },
+      {
+        "text": "波波糖制作工艺（镇宁布依族苗族自治县）列入贵州省第五批省级非物质文化遗产代表性项目名录，属传统技艺类。",
+        "source_ids": [
+          "ihchina-gz-5th"
+        ],
+        "variant": "非遗认定",
+        "confidence": "direct"
+      },
+      {
+        "text": "镇上通行说法称波波糖始于清朝咸丰年间，以糯米加工的饴糖和去皮炒熟的芝麻粉末为主要原料。",
+        "source_ids": [
+          "sohu-zhenning-snacks"
+        ],
+        "variant": "年代与原料",
+        "confidence": "secondary"
+      }
+    ],
+    "sources": [
+      {
+        "id": "baike-bobotang",
+        "title": "波波糖",
+        "url": "https://baike.baidu.com/item/%E6%B3%A2%E6%B3%A2%E7%B3%96/1937022",
+        "publisher": "百度百科",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "波波糖相传原是镇宁附近苗族王宫中的宫廷小点，后来其制作方法流传出来",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "ihchina-gz-5th",
+        "title": "贵州省人民政府公布第五批省级非遗代表性项目名录",
+        "url": "https://www.ihchina.cn/project_details/18777.html",
+        "publisher": "中国非物质文化遗产网（转贵州省人民政府）",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "波波糖制作工艺（镇宁布依族苗族自治县）、屯堡银饰制作技艺（西秀区）",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "sohu-zhenning-snacks",
+        "title": "【甜蜜镇宁 给你好“看”】镇宁特色风味小吃",
+        "url": "https://www.sohu.com/a/476659795_121117451",
+        "publisher": "搜狐（来源：开放镇宁）",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "始于清朝咸丰年间，是用糯米加工的饴糖和去皮炒熟的芝麻粉末为主要原料",
+        "media": {
+          "type": "none"
+        }
+      }
+    ],
+    "traceability": "B",
+    "notes": "宫廷说与刘兴汉说两种说法并列，不做裁决，亦不标注可信度高低。两说同出同一百科条目，其引据文献未列，须以地方志与老字号口述史复核。",
+    "tags": [
+      "波波糖",
+      "起源说",
+      "老字号",
+      "省级非遗",
+      "镇宁"
+    ],
+    "related_entry_ids": [
+      "zhenning-wuwanming-bobotang",
+      "zhenning-citywalk-axis"
+    ],
+    "narrative": {
+      "hook": "一颗糖有两种出生，一种在王府，一种在街边。",
+      "scene": "老城钟鼓楼脚，铺子把糖块码在木盘里，纸包一折就成了方。咬下去先脆后化，芝麻香从鼻腔里返上来。柜台后的老人只说“我们家的糖”，不说年头。"
+    }
+  },
+  {
+    "entry_id": "zhenning-wuwanming-bobotang",
+    "entry_no": "C6",
+    "entry_type": "person",
+    "title": "伍万明与波波糖工序",
+    "subtitle": "波波糖十几道手工工序的守艺人",
+    "category": [
+      "非遗传承人",
+      "糖食",
+      "传统技艺"
+    ],
+    "region": "镇宁自治县·环翠街道",
+    "coordinates": {
+      "lat": 26.058,
+      "lng": 105.769
+    },
+    "chapter_index": 4,
+    "scroll_anchor": "sugar",
+    "hero_media": {
+      "type": "none"
+    },
+    "summary": "伍万明是省级非遗传承人，常在展会上现场手作镇宁波波糖并向观众讲解。波波糖制作需经发、榨、熬、扯、起酥等十几道工序，以糯米加工的饴糖和去皮炒熟芝麻粉为主要原料，因落口即酥又名落口酥。该制作工艺已列入贵州省第五批省级非物质文化遗产代表性项目名录。",
+    "claims": [
+      {
+        "text": "省级非遗传承人伍万明在展会现场手作镇宁波波糖，并向观众讲解手艺。",
+        "source_ids": [
+          "chinanews-bobotang"
+        ],
+        "variant": "传承人身份",
+        "confidence": "direct"
+      },
+      {
+        "text": "波波糖的制作过程有发、榨、熬、扯、起酥等十几道工序，多为手工完成。",
+        "source_ids": [
+          "baike-bobotang"
+        ],
+        "variant": "工序名目",
+        "confidence": "secondary"
+      },
+      {
+        "text": "波波糖制作工艺（镇宁布依族苗族自治县）列入贵州省第五批省级非遗代表性项目名录，属传统技艺类。",
+        "source_ids": [
+          "ihchina-gz-5th"
+        ],
+        "variant": "非遗认定",
+        "confidence": "direct"
+      },
+      {
+        "text": "波波糖以糯米加工的饴糖与去皮炒熟的芝麻粉末为主要原料，因落口即酥又名落口酥。",
+        "source_ids": [
+          "sohu-zhenning-snacks",
+          "baike-bobotang"
+        ],
+        "variant": "原料与口感",
+        "confidence": "secondary"
+      }
+    ],
+    "sources": [
+      {
+        "id": "chinanews-bobotang",
+        "title": "非遗、老字号、文创集中亮相　传统技艺焕新彩",
+        "url": "http://www.chinanews.com.cn/cul/2024/09-30/10295650.shtml",
+        "publisher": "中国新闻网",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "省级非遗传承人伍万明现场手作镇宁波波糖，手艺传承人面对面讲解广西钦州坭兴陶的特色",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "ihchina-gz-5th",
+        "title": "贵州省人民政府公布第五批省级非遗代表性项目名录",
+        "url": "https://www.ihchina.cn/project_details/18777.html",
+        "publisher": "中国非物质文化遗产网（转贵州省人民政府）",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "波波糖制作工艺（镇宁布依族苗族自治县）、屯堡银饰制作技艺（西秀区）",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "baike-bobotang",
+        "title": "波波糖",
+        "url": "https://baike.baidu.com/item/%E6%B3%A2%E6%B3%A2%E7%B3%96/1937022",
+        "publisher": "百度百科",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "这时在钟鼓楼脚的刘家老曾祖刘兴汉认为镇宁六马盛产芝麻、糯米、麦子",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "sohu-zhenning-snacks",
+        "title": "【甜蜜镇宁 给你好“看”】镇宁特色风味小吃",
+        "url": "https://www.sohu.com/a/476659795_121117451",
+        "publisher": "搜狐（来源：开放镇宁）",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "始于清朝咸丰年间，是用糯米加工的饴糖和去皮炒熟的芝麻粉末为主要原料",
+        "media": {
+          "type": "none"
+        }
+      }
+    ],
+    "traceability": "B",
+    "notes": "省级传承人身份据中新网直接报道。环翠街道归属与逐道工序的完整名称清单未获可引用来源，工序仅据百科概述，须以传承人口述或非遗申报书补全。",
+    "tags": [
+      "波波糖",
+      "非遗传承人",
+      "手工工序",
+      "糖食",
+      "镇宁"
+    ],
+    "related_entry_ids": [
+      "zhenning-bobotang-origins",
+      "zhenning-night-walk-line"
+    ],
+    "narrative": {
+      "hook": "糖在手里被反复拉扯，最后才变脆。",
+      "scene": "案板上的糖团冒着热气，两手一抻一叠，越拉越白，拉到最后要用牙咬断。旁边一口锅还温着，芝麻倒在石板上摊开，香味先一步出了门，街上的人就循着找过来。"
+    }
+  },
+  {
+    "entry_id": "zhenning-panzuwen-miao-silver",
+    "entry_no": "C7",
+    "entry_type": "person",
+    "title": "潘祖文与马厂村苗银",
+    "subtitle": "马厂镇苗银与母舅传下的手艺",
+    "category": [
+      "银饰",
+      "苗族",
+      "手工艺"
+    ],
+    "region": "镇宁自治县·马厂镇",
+    "coordinates": {
+      "lat": 26.01,
+      "lng": 105.63
+    },
+    "chapter_index": 1,
+    "scroll_anchor": "silver",
+    "hero_media": {
+      "type": "none"
+    },
+    "summary": "潘祖文是苗银制作工匠，制银技术由母舅传授，二十多年来以压、打、刻、炼等工艺为苗族妇女打制头饰、帽饰、手镯、项圈、耳坠等首饰。他多在自家屋里以简单工具捶凿作业，年底婚期临近时须赶工完成整套出嫁首饰。苗族银饰锻制技艺2006年列入首批国家级非遗名录。",
+    "claims": [
+      {
+        "text": "潘祖文是远近闻名的苗银制作工匠，制银技术由其母舅传授，二十多年来一直以打银为业。",
+        "source_ids": [
+          "kk-panzuwen"
+        ],
+        "variant": "师承与年限",
+        "confidence": "secondary"
+      },
+      {
+        "text": "他凭几样简单工具，用压、打、刻、炼等工艺，为苗族妇女打制苗银首饰。",
+        "source_ids": [
+          "kk-panzuwen"
+        ],
+        "variant": "工艺手法",
+        "confidence": "secondary"
+      },
+      {
+        "text": "一套出嫁首饰包括头饰、帽饰、手镯、项圈、耳坠等，婚期临近时即便老银匠也须赶工。",
+        "source_ids": [
+          "shouyi-panzuwen"
+        ],
+        "variant": "产品构成",
+        "confidence": "direct"
+      },
+      {
+        "text": "苗族银饰锻制技艺含铸炼、压片、錾刻、镂雕、焊接、编结等三十余道工序，由家庭作坊手工完成。",
+        "source_ids": [
+          "baike-miaosilver"
+        ],
+        "variant": "技艺背景",
+        "confidence": "secondary"
+      },
+      {
+        "text": "2006年苗族银饰锻制技艺列入第一批国家级非物质文化遗产名录，项目编号Ⅷ-40。",
+        "source_ids": [
+          "baike-miaosilver"
+        ],
+        "variant": "非遗认定",
+        "confidence": "secondary"
+      }
+    ],
+    "sources": [
+      {
+        "id": "shouyi-panzuwen",
+        "title": "苗银守艺人潘祖文：老守艺人的困境",
+        "url": "https://shouyi.china.com/craft/13001480/20171229/31888665.html",
+        "publisher": "中华网·守艺中华",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "见到潘祖文时，他正坐在自家屋里的矮凳上，叮叮当当地做着银饰，包括头饰、帽饰、手镯",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "kk-panzuwen",
+        "title": "「守藝中華·錦繡中國行」聚寶匯：弘揚傳統文化，保護傳統技藝",
+        "url": "https://kknews.cc/culture/pe5aepe.amp",
+        "publisher": "每日头条（转载中华网活动稿）",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "潘祖文是远近闻名的苗银制作工匠，他的制银技术由其母舅传授，20多年来",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "baike-miaosilver",
+        "title": "苗族银饰",
+        "url": "https://baike.baidu.com/item/%E8%8B%97%E6%97%8F%E9%93%B6%E9%A5%B0/2300450",
+        "publisher": "百度百科",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "苗族银饰锻制技艺包含铸炼、压片、錾刻、镂雕、焊接、编结等30余道工序",
+        "media": {
+          "type": "none"
+        }
+      }
+    ],
+    "traceability": "C",
+    "notes": "仅有单一自媒体来源支撑人物信息。“马厂村乙碗井组”“1978年开始制银”两项未获任何可引用来源，本条未立此说，须实地核访或查县级非遗名录。",
+    "tags": [
+      "苗银",
+      "银饰",
+      "手工艺",
+      "马厂镇",
+      "待核"
+    ],
+    "related_entry_ids": [
+      "zhenning-wudefen-batik",
+      "zhenning-buyi-cuisine"
+    ],
+    "narrative": {
+      "hook": "一炉火、一把锤、几根錾子，就是全部家当。",
+      "scene": "矮凳靠墙，膝上垫一块旧皮。小锤敲在银片上，声音细而密，一下接一下。窗台上摊着拉好的银丝，细得几乎看不见，风一过就轻轻颤。"
+    }
+  },
+  {
+    "entry_id": "zhenning-dixi-villages",
+    "entry_no": "C8",
+    "entry_type": "index",
+    "title": "镇宁地戏村落分布",
+    "subtitle": "三百余堂戏在黔中村寨之间",
+    "category": [
+      "地戏",
+      "索引",
+      "村落"
+    ],
+    "region": "镇宁自治县",
+    "coordinates": {
+      "lat": 26.058,
+      "lng": 105.769
+    },
+    "chapter_index": 3,
+    "scroll_anchor": "opera",
+    "hero_media": {
+      "type": "none"
+    },
+    "summary": "地戏以安顺西秀区为中心，分布于平坝、普定、镇宁、关岭、紫云等县区的村寨。全省约有370多堂，安顺市所属各区县300堂，仅西秀区就有192堂。地戏以村寨为单位组队，一队只演一部大书，称一堂。镇宁境内的地戏属这一分布带，具体开演戏堂与村落名录尚无公开统计。",
+    "claims": [
+      {
+        "text": "地戏分布于以安顺西秀区为中心及市属的平坝、普定、镇宁、关岭、紫云等地，以及邻近的清镇、花溪、长顺。",
+        "source_ids": [
+          "ihchina-dixi",
+          "wiki-dixi"
+        ],
+        "variant": "分布框架",
+        "confidence": "direct"
+      },
+      {
+        "text": "全省约有370多堂地戏，安顺市所属各区县有300堂，仅西秀区就有192堂。",
+        "source_ids": [
+          "ihchina-dixi"
+        ],
+        "variant": "戏堂统计",
+        "confidence": "direct"
+      },
+      {
+        "text": "地戏以村寨为单位组队，一个地戏队只演一部大书，称为一堂，剧本靠村中土秀才手抄代代相传。",
+        "source_ids": [
+          "ihchina-dixi"
+        ],
+        "variant": "组织形式",
+        "confidence": "direct"
+      },
+      {
+        "text": "2006年5月20日安顺地戏经国务院批准列入第一批国家级非物质文化遗产名录。",
+        "source_ids": [
+          "baike-anshun-dixi"
+        ],
+        "variant": "非遗认定",
+        "confidence": "secondary"
+      }
+    ],
+    "sources": [
+      {
+        "id": "ihchina-dixi",
+        "title": "戏剧的活化石――地戏",
+        "url": "https://www.ihchina.cn/project_details/10919.html",
+        "publisher": "中国非物质文化遗产网·中国非物质文化遗产数字博物馆",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "主要分布在以安顺西秀区为中心，包括邻近的平坝、普定、镇宁、关岭、紫云、清镇、长顺",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "wiki-dixi",
+        "title": "地戏",
+        "url": "https://zh.wikipedia.org/zh-hans/%E5%9C%B0%E6%88%8F",
+        "publisher": "维基百科",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "地戏分布于以贵州省安顺市西秀区为中心及市属的平坝、普定、镇宁、关岭、紫云",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "baike-anshun-dixi",
+        "title": "安顺地戏",
+        "url": "https://baike.baidu.com/item/%E5%AE%89%E9%A1%BA%E5%9C%B0%E6%88%8F/8346114",
+        "publisher": "百度百科",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "安顺地戏，贵州省安顺市地方传统戏剧，国家级非物质文化遗产之一",
+        "media": {
+          "type": "none"
+        }
+      }
+    ],
+    "traceability": "C",
+    "notes": "新苑、窑上、长脚、东窑四村的地戏活动未获独立来源逐一印证，本条只立安顺地戏的分布与组织框架，村名与戏堂数须以县文化馆台账或田野普查补录。",
+    "tags": [
+      "地戏",
+      "村落",
+      "索引",
+      "非遗",
+      "镇宁"
+    ],
+    "related_entry_ids": [
+      "zhenning-changjiaozhai-dixi",
+      "zhenning-zhangwanquan-dixi"
+    ],
+    "narrative": {
+      "hook": "一个村子一堂戏，戏就是村子的族谱。",
+      "scene": "正月里，晒场边还堆着去年的稻草。神柜抬到院中，开箱时香烛先点，脸子一尊尊取出来，在长凳上排成一列，等锣鼓把人从各巷聚齐。"
+    }
+  },
+  {
+    "entry_id": "zhenning-buyi-cuisine",
+    "entry_no": "C9",
+    "entry_type": "thematic",
+    "title": "布依族传统饮食",
+    "subtitle": "染饭、鸡八块与油团粑三味",
+    "category": [
+      "饮食",
+      "布依族",
+      "节令"
+    ],
+    "region": "镇宁自治县",
+    "coordinates": {
+      "lat": 26.058,
+      "lng": 105.769
+    },
+    "chapter_index": 6,
+    "scroll_anchor": "food",
+    "hero_media": {
+      "type": "none"
+    },
+    "summary": "镇宁布依族饮食以糯米为主料，节令食物与特定时日绑定：三月三做五色染饭，正月最后一天做油团粑，这一天也叫油团节。鸡八块把鸡身分成头、脚、小腿、爪、翅、尾、肠、肝八部位，须由主人分配，得“头”的人号召后方能开席。染饭、鸡八块、油团粑与波波糖同被列为镇宁特色风味小吃。",
+    "claims": [
+      {
+        "text": "布依族饮食以糯米为主料，染饭、油团粑等节令食物分别与三月三、正月最后一天等时日绑定。",
+        "source_ids": [
+          "sohu-zhenning-snacks",
+          "xinhua-youtuanba"
+        ],
+        "variant": "节令与主料",
+        "confidence": "secondary"
+      },
+      {
+        "text": "染饭、鸡八块、油团粑以及波波糖等，常被地方资料并列列为镇宁特色风味小吃。",
+        "source_ids": [
+          "sohu-zhenning-snacks"
+        ],
+        "variant": "小吃名录",
+        "confidence": "secondary"
+      },
+      {
+        "text": "油团粑是布依族人每年正月最后一天必备的食物，所以这一天也叫做油团节。",
+        "source_ids": [
+          "xinhua-youtuanba"
+        ],
+        "variant": "节令",
+        "confidence": "direct"
+      }
+    ],
+    "subitems": [
+      {
+        "name": "染饭",
+        "claims": [
+          {
+            "text": "每年秋后，布依人把上等的糯米挑选出来，单独放好，留待做染饭用。",
+            "source_ids": [
+              "sohu-zhenning-snacks"
+            ],
+            "variant": "备料",
+            "confidence": "secondary"
+          },
+          {
+            "text": "到次年三月三民族传统节日，用可食用的野生植物提取染饭色素，染成红、紫、黑、白、黄五色。",
+            "source_ids": [
+              "sohu-zhenning-snacks"
+            ],
+            "variant": "染色",
+            "confidence": "secondary"
+          }
+        ]
+      },
+      {
+        "name": "鸡八块",
+        "claims": [
+          {
+            "text": "鸡八块指鸡身上的八个主要部位，即头、脚（又称大腿）、小腿（布依族称“卦”）、爪、翅、尾、肠、肝。",
+            "source_ids": [
+              "sohu-zhenning-snacks"
+            ],
+            "variant": "部位划分",
+            "confidence": "secondary"
+          },
+          {
+            "text": "鸡八块须由主人分配，得“头”的人号召之后，众人方能开席。",
+            "source_ids": [
+              "sohu-zhenning-snacks"
+            ],
+            "variant": "分食规矩",
+            "confidence": "secondary"
+          }
+        ]
+      },
+      {
+        "name": "油团粑",
+        "claims": [
+          {
+            "text": "油团粑是布依族人每年正月最后一天必备的食物，所以这一天也叫做油团节。",
+            "source_ids": [
+              "xinhua-youtuanba"
+            ],
+            "variant": "节令",
+            "confidence": "direct"
+          },
+          {
+            "text": "用大约90%的糯米、10%的大米，加适量黄豆、红薯等配料加工成米面，用染色花煮过的水和匀揉捏成汤圆形状。",
+            "source_ids": [
+              "xinhua-youtuanba"
+            ],
+            "variant": "配比与成形",
+            "confidence": "direct"
+          },
+          {
+            "text": "另法以糯米面、大米面、玉米面、小麦面、黄豆面、红薯面混合和水，用野生“香粑花”染成黄色，捏成鸡蛋大小入铁锅用菜油炒制。",
+            "source_ids": [
+              "sohu-zhenning-snacks"
+            ],
+            "variant": "另法配方",
+            "confidence": "secondary"
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "xinhua-youtuanba",
+        "title": "吃在镇宁｜油团粑",
+        "url": "http://gz.news.cn/20240618/50b554f21e564f41ac53ca14eb8dbb46/c.html",
+        "publisher": "新华网贵州频道（来源：镇宁县融媒体中心）",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "油团粑就是布依族人每年正月的最后一天了年中必备的一样食物，所以这一天也叫做油团节",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "sohu-zhenning-snacks",
+        "title": "【甜蜜镇宁 给你好“看”】镇宁特色风味小吃",
+        "url": "https://www.sohu.com/a/476659795_121117451",
+        "publisher": "搜狐（来源：开放镇宁）",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "鸡八块是指鸡身上的八个主要部位，即：头、脚（又称大腿）、小腿",
+        "media": {
+          "type": "none"
+        }
+      }
+    ],
+    "traceability": "B",
+    "notes": "油团粑据新华网，属直接采访；染饭与鸡八块出自地方自媒体汇编。油团粑存在两套配方说法，已分别立claim并列，不做取舍，配方细节须田野复核。",
+    "tags": [
+      "布依族",
+      "饮食",
+      "染饭",
+      "鸡八块",
+      "油团粑"
+    ],
+    "related_entry_ids": [
+      "zhenning-gaodang-village",
+      "zhenning-bamboo-king-festival"
+    ],
+    "narrative": {
+      "hook": "糯米的颜色，是山里植物给的。",
+      "scene": "灶上大铁锅热着油，竹片削得薄，垫在锅底。米面团成鸡蛋大小，一入锅就沉下去，再浮起来时已经泛黄。旁边盆里泡着染成五色的糯米，等着上甑。"
+    }
+  },
+  {
+    "entry_id": "zhenning-yelang-cave",
+    "entry_no": "C10",
+    "entry_type": "place",
+    "title": "夜郎洞",
+    "subtitle": "水洞进、旱洞出的喀斯特溶洞",
+    "category": [
+      "溶洞",
+      "自然景观",
+      "4A景区"
+    ],
+    "region": "镇宁自治县·扁担山镇夜郎洞村",
+    "coordinates": {
+      "lat": 26.1,
+      "lng": 105.8
+    },
+    "chapter_index": 7,
+    "scroll_anchor": "nature",
+    "hero_media": {
+      "type": "none"
+    },
+    "summary": "夜郎洞为国家AAAA级景区，位于镇宁自治县扁担山镇夜郎洞村，与黄果树、石头寨景区相连。洞全长约6000公尺，宽63公尺，高48公尺，第一层为水洞，第二、三层为旱洞。洞口外筑有上万平方米湖泊，设水上宾馆、夜郎别墅与环湖廊亭。传说此洞因夜郎王曾居住过而得名。",
+    "claims": [
+      {
+        "text": "夜郎洞风景名胜区是国家AAAA级景区，位于镇宁自治县扁担山镇夜郎洞村，与黄果树、石头寨景区相连。",
+        "source_ids": [
+          "baike-yelangdong"
+        ],
+        "variant": "景区等级与区位",
+        "confidence": "secondary"
+      },
+      {
+        "text": "洞全长6000公尺，宽63公尺，高48公尺，第一层为水洞，第二层和第三层为旱洞。",
+        "source_ids": [
+          "baike-yelangdong"
+        ],
+        "variant": "洞穴尺度",
+        "confidence": "secondary"
+      },
+      {
+        "text": "夜郎洞传说因夜郎王曾居住过而得名，洞口一带留有旧时遗存与民间传说痕迹。",
+        "source_ids": [
+          "baike-yelangdong",
+          "163-yelangdong"
+        ],
+        "variant": "得名传说",
+        "confidence": "secondary"
+      },
+      {
+        "text": "进洞第一段须乘船，水路不长；洞内常年十八度上下，夏季入洞宜备薄外套，地面湿滑需防滑鞋。",
+        "source_ids": [
+          "163-yelangdong"
+        ],
+        "variant": "游览体验",
+        "confidence": "secondary"
+      },
+      {
+        "text": "洞口外筑有一个上万平方米的湖泊，湖边设水上宾馆、夜郎别墅与环湖廊亭。",
+        "source_ids": [
+          "wiki-zhenning"
+        ],
+        "variant": "洞外环境",
+        "confidence": "secondary"
+      }
+    ],
+    "sources": [
+      {
+        "id": "baike-yelangdong",
+        "title": "夜郎洞风景名胜区",
+        "url": "https://baike.baidu.com/item/%E5%A4%9C%E9%83%8E%E6%B4%9E%E9%A3%8E%E6%99%AF%E5%90%8D%E8%83%9C%E5%8C%BA/2753529",
+        "publisher": "百度百科",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "夜郎洞传说因夜郎王曾居住过而得名，洞全长6000公尺，宽63公尺，高48公尺",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "163-yelangdong",
+        "title": "别只奔黄果树，安顺这条 9 公里外的路线更耐看！",
+        "url": "https://163.com/dy/article/LBLBP4IH0552M20P.html",
+        "publisher": "网易号",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "我建议把洞放在上午。八点半进景区，人少，船不用等，洞里安静，讲解也能听清",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "wiki-zhenning",
+        "title": "镇宁布依族苗族自治县",
+        "url": "https://zh.wikipedia.org/zh-hans/%E9%95%87%E5%AE%81%E5%B8%83%E4%BE%9D%E6%97%8F%E8%8B%97%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF",
+        "publisher": "维基百科",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "扁担山乡的夜郎洞景区，洞口外筑有一个上万平方米的湖泊，有水上宾馆、夜郎别墅、环湖廊亭",
+        "media": {
+          "type": "none"
+        }
+      }
+    ],
+    "traceability": "C",
+    "notes": "三条来源均为百科与自媒体，无景区官方页面。“8:30 或 15:00 后更清静”属游记作者个人经验，非景区公示信息，开放时间与票价须以当日公告为准。",
+    "tags": [
+      "夜郎洞",
+      "溶洞",
+      "4A景区",
+      "扁担山",
+      "自然"
+    ],
+    "related_entry_ids": [
+      "zhenning-baima-guijia-lakes",
+      "zhenning-citywalk-axis"
+    ],
+    "narrative": {
+      "hook": "先坐船进去，再走出来。",
+      "scene": "橡皮舟贴着水面滑进洞口，头顶岩壁压得很低，得低头。灯光打在钟乳石上，再从水面反回来，上下一对影子。船工撑篙，偶尔用手拨一下石壁让船转向。"
+    }
+  },
+  {
+    "entry_id": "zhenning-baima-guijia-lakes",
+    "entry_no": "C11",
+    "entry_type": "place",
+    "title": "白马湖—桂家湖",
+    "subtitle": "县城西南与城北的两片水面",
+    "category": [
+      "水库",
+      "自然景观",
+      "近郊"
+    ],
+    "region": "镇宁自治县·白马湖街道／丁旗街道",
+    "coordinates": {
+      "lat": 26.03,
+      "lng": 105.74
+    },
+    "chapter_index": 7,
+    "scroll_anchor": "nature",
+    "hero_media": {
+      "type": "none"
+    },
+    "summary": "白马山庄位于镇宁县城西南4公里的贵黄高等级公路、滇黔320国道左侧，水库面积580.96亩，蓄水174万立方米，东北面有密林半岛，马尾松、杉木人工林200余亩。桂家湖位于县城北10公里的丁旗镇，为打邦河支流桂家河源头，湖面1.81平方公里，总库容1830万立方米，奇峰环湖、湖中有岛。",
+    "claims": [
+      {
+        "text": "白马山庄位于镇宁县城西南4公里的贵黄高等级公路、滇黔320国道左侧，水库面积580.96亩，蓄水174万立方米。",
+        "source_ids": [
+          "baike-zhenning-county"
+        ],
+        "variant": "白马湖区位与水量",
+        "confidence": "secondary"
+      },
+      {
+        "text": "白马山庄东北面有密林半岛一座，马尾松、杉木人工林面积200余亩。",
+        "source_ids": [
+          "baike-zhenning-county"
+        ],
+        "variant": "白马湖植被",
+        "confidence": "secondary"
+      },
+      {
+        "text": "桂家湖位于县城北10公里的丁旗镇，是打邦河支流桂家河的源头，为分叉枝丘陵型中型水库。",
+        "source_ids": [
+          "baike-zhenning-county"
+        ],
+        "variant": "桂家湖区位",
+        "confidence": "secondary"
+      },
+      {
+        "text": "桂家湖湖面1.81平方公里，总库容1830万立方米，奇峰环湖、湖中有岛，有雁鸭栖息的沙洲。",
+        "source_ids": [
+          "baike-zhenning-county"
+        ],
+        "variant": "桂家湖形态",
+        "confidence": "secondary"
+      },
+      {
+        "text": "镇宁下辖白马湖街道等5个街道，境内建有王二河、白马、桂家湖、红旗等水库。",
+        "source_ids": [
+          "wiki-zhenning"
+        ],
+        "variant": "行政与水系",
+        "confidence": "secondary"
+      }
+    ],
+    "sources": [
+      {
+        "id": "baike-zhenning-county",
+        "title": "镇宁布依族苗族自治县",
+        "url": "https://baike.baidu.com/item/%E9%95%87%E5%AE%81%E5%B8%83%E4%BE%9D%E6%97%8F%E8%8B%97%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF/2453004",
+        "publisher": "百度百科",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "位于镇宁布依族苗族自治县城西南边4公里处的贵黄高等公路、滇黔320国道左侧",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "wiki-zhenning",
+        "title": "镇宁布依族苗族自治县",
+        "url": "https://zh.wikipedia.org/zh-hans/%E9%95%87%E5%AE%81%E5%B8%83%E4%BE%9D%E6%97%8F%E8%8B%97%E6%97%8F%E8%87%AA%E6%B2%BB%E5%8E%BF",
+        "publisher": "维基百科",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "镇宁布依族苗族自治县是中华人民共和国贵州省安顺市下辖的一个自治县",
+        "media": {
+          "type": "none"
+        }
+      }
+    ],
+    "traceability": "C",
+    "notes": "两条来源均为百科。“两颗水珠子”是当地口述比喻，未获文献来源，故未立为claim；“清晨最美”属经验判断，非官方信息，须现场核实开放与通行条件。",
+    "tags": [
+      "白马湖",
+      "桂家湖",
+      "水库",
+      "近郊",
+      "镇宁"
+    ],
+    "related_entry_ids": [
+      "zhenning-yelang-cave",
+      "zhenning-citywalk-axis"
+    ],
+    "narrative": {
+      "hook": "县城两头各有一片水，一头朝西南，一头朝北。",
+      "scene": "清晨水面平得像铺开的布，雾贴着湖慢慢走，岸边松林黑成一排。有人蹲在石阶上洗手，水纹一圈圈推开，把对岸的山影晃碎，又慢慢合上。"
+    }
+  },
+  {
+    "entry_id": "zhenning-bamboo-king-festival",
+    "entry_no": "C12",
+    "entry_type": "event",
+    "title": "竹王节",
+    "subtitle": "农历二月十二的夜郎后裔祭祖",
+    "category": [
+      "节庆",
+      "祭祀",
+      "省级非遗"
+    ],
+    "region": "镇宁自治县·江龙镇猫猫冲",
+    "coordinates": {
+      "lat": 26.1,
+      "lng": 105.88
+    },
+    "chapter_index": 6,
+    "scroll_anchor": "food",
+    "hero_media": {
+      "type": "none"
+    },
+    "summary": "竹王节是夜郎竹王后裔一年一度的祭祖传统节日，每年农历二月十二举行，竹王崇拜2007年列入贵州省级非遗保护。第九届于2016年3月20日在镇宁县江龙镇猫猫冲“竹王节”活动场举行，上午集体祭拜竹王，下午做斋。至2026年已办十九届，时间地点不变，族人自带香纸祭祖。",
+    "claims": [
+      {
+        "text": "竹王节为夜郎竹王后裔一年一度的祭祖传统节日，每年农历二月十二举行，活动为期一天。",
+        "source_ids": [
+          "gztravel-zhuwang",
+          "eastmoney-zhuwang"
+        ],
+        "variant": "节期",
+        "confidence": "direct"
+      },
+      {
+        "text": "竹王崇拜2007年已列入贵州省级非遗保护，2011年列入安顺市八大民俗之一。",
+        "source_ids": [
+          "gztravel-zhuwang"
+        ],
+        "variant": "非遗认定",
+        "confidence": "direct"
+      },
+      {
+        "text": "第九届“夜郎竹王节”于2016年3月20日（农历二月十二）在镇宁县江龙镇猫猫冲“竹王节”活动场举行。",
+        "source_ids": [
+          "gztravel-zhuwang"
+        ],
+        "variant": "届次与场地",
+        "confidence": "direct"
+      },
+      {
+        "text": "夜郎竹王后裔分布于黔、桂、滇三省区24个县市区，含苗族、布依族、仡佬族、汉族，人口约40万。",
+        "source_ids": [
+          "gztravel-zhuwang"
+        ],
+        "variant": "后裔分布",
+        "confidence": "direct"
+      },
+      {
+        "text": "至2026年竹王节已成功举办十九届，时间地点不变，走入常态化，族人自带香纸来祭祖。",
+        "source_ids": [
+          "eastmoney-zhuwang"
+        ],
+        "variant": "近年沿革",
+        "confidence": "secondary"
+      },
+      {
+        "text": "竹王后裔代表及观众约6000余人曾聚集到江龙镇猫猫冲夜郎竹王文化活动场参加活动。",
+        "source_ids": [
+          "sohu-zhuwang-statue"
+        ],
+        "variant": "参与规模",
+        "confidence": "secondary"
+      }
+    ],
+    "sources": [
+      {
+        "id": "gztravel-zhuwang",
+        "title": "第九届“夜郎竹王节”3月20日在镇宁县举行",
+        "url": "http://www.gz-travel.net/lysx/as/201603/22528.html",
+        "publisher": "贵州旅游在线",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "竹王崇拜2007年已列入省级非遗保护，2011年列入安顺市八大民俗之一",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "eastmoney-zhuwang",
+        "title": "竹王崇拜省级非遗保护19周年活动纪要",
+        "url": "https://caifuhao.eastmoney.com/news/20261019211047188643730",
+        "publisher": "东方财富财富号",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "每年农历二月十二约定俗成的祭祖节，已成功举办了十九届，时间地点不变",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "sohu-zhuwang-statue",
+        "title": "夜郎国君长竹王塑像在贵州苗寨揭幕",
+        "url": "https://www.sohu.com/a/223231829_488491",
+        "publisher": "搜狐",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "竹王后裔代表及观众约6000余人聚集到镇宁自治县江龙镇猫猫冲夜郎竹王文化活动场",
+        "media": {
+          "type": "none"
+        }
+      }
+    ],
+    "traceability": "B",
+    "notes": "节期、省级非遗与猫猫冲场地据贵州旅游在线较早报道。“2026年3月猫猫冲办节”未获当年公告来源，十九届之数据出自研究会纪要，须以县文旅局通告核实。",
+    "tags": [
+      "竹王节",
+      "夜郎",
+      "祭祖",
+      "省级非遗",
+      "江龙镇"
+    ],
+    "related_entry_ids": [
+      "zhenning-buyi-cuisine",
+      "zhenning-dixi-villages"
+    ],
+    "narrative": {
+      "hook": "同一天，三省区的人往同一个山坳里走。",
+      "scene": "坡上摆开香案，纸钱一叠叠压好，香一根根点上。老人穿靛蓝衣裳，头饰上缀着银片，走动时轻响。主持人念到名字，人群往前挪半步，又停住。"
+    }
+  },
+  {
+    "entry_id": "zhenning-night-walk-line",
+    "entry_no": "C13",
+    "entry_type": "route",
+    "title": "下北街—老东门—天瀑步行街夜线",
+    "subtitle": "老城青石板上的夜间步行线",
+    "category": [
+      "夜游",
+      "步行路线",
+      "老城"
+    ],
+    "region": "镇宁自治县·环翠街道老城",
+    "coordinates": {
+      "lat": 26.062,
+      "lng": 105.77
+    },
+    "chapter_index": 8,
+    "scroll_anchor": "night",
+    "hero_media": {
+      "type": "none"
+    },
+    "summary": "这条夜线从下北街起，经安庄卫城楼与钟鼓楼，穿老东门，末段落在天瀑步行街，全程约两公里，可边走边吃。街面为青石板，两侧是低层老铺与新开的店面，屋檐下挂着灯。天瀑步行街以文化墙绘呈现镇宁山水与民族文化，入夜后灯火次第亮起，摊档沿街摆开，是县城夜间人流最集中的一段。",
+    "claims": [
+      {
+        "text": "天瀑步行街文化墙绘以光影勾勒镇宁的山水风情与民族文化，吸引游客驻足拍照，是夜间人流集中的一段。",
+        "source_ids": [
+          "qq-zhenning-tourism"
+        ],
+        "variant": "夜线核心段",
+        "confidence": "direct"
+      },
+      {
+        "text": "夜幕降临，镇宁夜市的灯火次第亮起，美食香气与游人喧嚣交织，成为本地与游客共同的夜间去处。",
+        "source_ids": [
+          "qq-zhenning-tourism"
+        ],
+        "variant": "夜市氛围",
+        "confidence": "direct"
+      },
+      {
+        "text": "安庄卫城楼为镇宁县城现存的明代卫城建筑遗存，是老城中轴上的标志性节点。",
+        "source_ids": [
+          "wiki-anzhuangwei"
+        ],
+        "variant": "城楼",
+        "confidence": "secondary"
+      },
+      {
+        "text": "镇宁老城钟鼓楼一带自清代即为糖食铺集中之处，咸丰年间刘兴汉试制波波糖即在钟鼓楼脚。",
+        "source_ids": [
+          "baike-bobotang"
+        ],
+        "variant": "钟鼓楼",
+        "confidence": "secondary"
+      }
+    ],
+    "route_points": [
+      {
+        "name": "下北街",
+        "order": 1,
+        "coordinates": {
+          "lat": 26.062,
+          "lng": 105.77
+        },
+        "note": "夜线起点，青石板路面，两侧为低层老铺与新开店",
+        "source_ids": [
+          "wiki-anzhuangwei"
+        ]
+      },
+      {
+        "name": "安庄卫城楼",
+        "order": 2,
+        "coordinates": {
+          "lat": 26.058,
+          "lng": 105.769
+        },
+        "note": "明代卫城遗存，夜间有灯光，可辨城楼与墙基轮廓",
+        "source_ids": [
+          "wiki-anzhuangwei"
+        ]
+      },
+      {
+        "name": "老东门",
+        "order": 3,
+        "coordinates": {
+          "lat": 26.055,
+          "lng": 105.775
+        },
+        "note": "老城东侧出入口，周边小吃摊与杂货铺最为集中",
+        "source_ids": [
+          "qq-zhenning-tourism"
+        ]
+      },
+      {
+        "name": "天瀑步行街",
+        "order": 4,
+        "coordinates": {
+          "lat": 26.06,
+          "lng": 105.77
+        },
+        "note": "墙绘与露天矮桌摊档集中，人均消费约50至80元",
+        "source_ids": [
+          "qq-zhenning-tourism"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "qq-zhenning-tourism",
+        "title": "镇宁：农文旅体融合 激活县域发展动能",
+        "url": "https://news.qq.com/rain/a/20250729A09N2B00",
+        "publisher": "腾讯新闻",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "天瀑步行街文化墙绘以光影勾勒出镇宁的山水风情与民族文化，吸引游客驻足拍照留念",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "wiki-anzhuangwei",
+        "title": "File:Anzhuangwei, Zhenning Buyei and Miao Autonomous County",
+        "url": "https://en.wikipedia.org/wiki/File:Anzhuangwei,_Zhenning_Buyei_and_Miao_Autonomous_County,_14_May_2020b.jpg",
+        "publisher": "维基百科",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "贵州省安顺市镇宁布依族苗族自治县的安庄卫城楼。2020年5月14日",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "baike-bobotang",
+        "title": "波波糖",
+        "url": "https://baike.baidu.com/item/%E6%B3%A2%E6%B3%A2%E7%B3%96/1937022",
+        "publisher": "百度百科",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "这时在钟鼓楼脚的刘家老曾祖刘兴汉认为镇宁六马盛产芝麻、糯米、麦子",
+        "media": {
+          "type": "none"
+        }
+      }
+    ],
+    "traceability": "C",
+    "notes": "夜线为步行串联，全程约2公里。人均50至80元系实地经验值，无公开统计；下北街与老东门的具体街巷走向、摊档分布须现场核对后再定稿。",
+    "tags": [
+      "夜游",
+      "步行街",
+      "老城",
+      "青石板",
+      "夜市"
+    ],
+    "related_entry_ids": [
+      "zhenning-citywalk-axis",
+      "zhenning-bobotang-origins"
+    ],
+    "narrative": {
+      "hook": "天黑之后，老城才把摊子摆出来。",
+      "scene": "青石板被脚步磨得发亮，路灯从屋檐下探出来。矮桌沿街一溜摆开，塑料凳歪着放。锅铲声、说话声、拖鞋声混在一起，热气从摊子上冒起来。"
+    }
+  },
+  {
+    "entry_id": "zhenning-citywalk-axis",
+    "entry_no": "C14",
+    "entry_type": "route",
+    "title": "镇宁古城中轴 6km City Walk",
+    "subtitle": "从唸佛寺到老东门的九个节点",
+    "category": [
+      "城市漫步",
+      "历史轴线",
+      "老城"
+    ],
+    "region": "镇宁自治县·环翠街道",
+    "coordinates": {
+      "lat": 26.06,
+      "lng": 105.77
+    },
+    "chapter_index": 8,
+    "scroll_anchor": "night",
+    "hero_media": {
+      "type": "none"
+    },
+    "summary": "这条中轴线按序串起唸佛寺、安庄卫城楼、钟鼓楼、天主教堂、老粮仓、红旗湖、陆瑞光纪念馆、天瀑步行街与老东门九个节点，全程约6公里，可步行亦可分段搭车。沿线可见明代卫城遗存、清代糖食铺旧址、民国时期教堂与近代粮仓，末段落在县城夜间最热闹的步行街。",
+    "claims": [
+      {
+        "text": "安庄卫城楼为镇宁县城现存的明代卫城建筑遗存，是古城中轴上的标志性节点。",
+        "source_ids": [
+          "wiki-anzhuangwei"
+        ],
+        "variant": "安庄卫城楼",
+        "confidence": "secondary"
+      },
+      {
+        "text": "镇宁老城钟鼓楼一带清代即为糖食铺集中处，咸丰年间刘兴汉在钟鼓楼脚试制成波波糖。",
+        "source_ids": [
+          "baike-bobotang"
+        ],
+        "variant": "钟鼓楼",
+        "confidence": "secondary"
+      },
+      {
+        "text": "1929年陆瑞光率众袭镇宁县城，吓跑县长李刚与天主教堂的外国神父，天主教堂由此见于记载。",
+        "source_ids": [
+          "baike-luruiguang"
+        ],
+        "variant": "天主教堂",
+        "confidence": "secondary"
+      },
+      {
+        "text": "红旗湖即红旗水库，为镇宁县城附近的人工湖，水面约5平方公里，尾水排入镇宁河。",
+        "source_ids": [
+          "wiki-redflaglake"
+        ],
+        "variant": "红旗湖",
+        "confidence": "secondary"
+      },
+      {
+        "text": "天瀑步行街以文化墙绘呈现镇宁山水与民族文化，入夜后为县城人流最密集的街区。",
+        "source_ids": [
+          "qq-zhenning-tourism"
+        ],
+        "variant": "天瀑步行街",
+        "confidence": "direct"
+      }
+    ],
+    "route_points": [
+      {
+        "name": "唸佛寺",
+        "order": 1,
+        "coordinates": {
+          "lat": 26.062,
+          "lng": 105.765
+        },
+        "note": "轴线北端起点，寺院开放时间与门票须现场确认",
+        "source_ids": [
+          "wiki-anzhuangwei"
+        ]
+      },
+      {
+        "name": "安庄卫城楼",
+        "order": 2,
+        "coordinates": {
+          "lat": 26.058,
+          "lng": 105.769
+        },
+        "note": "明代卫城遗存，可辨城墙夯土与城楼形制，夜间打灯",
+        "source_ids": [
+          "wiki-anzhuangwei"
+        ]
+      },
+      {
+        "name": "钟鼓楼",
+        "order": 3,
+        "coordinates": {
+          "lat": 26.057,
+          "lng": 105.768
+        },
+        "note": "清代糖食铺旧址所在，今为老城十字路口，无存建筑",
+        "source_ids": [
+          "baike-bobotang"
+        ]
+      },
+      {
+        "name": "天主教堂",
+        "order": 4,
+        "coordinates": {
+          "lat": 26.056,
+          "lng": 105.766
+        },
+        "note": "民国时期教堂，1929年袭城记载中提及，现址与开放待核",
+        "source_ids": [
+          "baike-luruiguang"
+        ]
+      },
+      {
+        "name": "老粮仓",
+        "order": 5,
+        "coordinates": {
+          "lat": 26.059,
+          "lng": 105.772
+        },
+        "note": "近代粮仓建筑，外观可辨，现状与能否入内须核实",
+        "source_ids": [
+          "wiki-anzhuangwei"
+        ]
+      },
+      {
+        "name": "红旗湖",
+        "order": 6,
+        "coordinates": {
+          "lat": 26.0803,
+          "lng": 105.7764
+        },
+        "note": "县城北侧人工湖，水面开阔，环湖道路可短歇",
+        "source_ids": [
+          "wiki-redflaglake"
+        ]
+      },
+      {
+        "name": "陆瑞光纪念馆",
+        "order": 7,
+        "coordinates": {
+          "lat": 26.061,
+          "lng": 105.774
+        },
+        "note": "纪念布依族农民武装首领陆瑞光，位于县城，开放时间待核",
+        "source_ids": [
+          "baike-luruiguang"
+        ]
+      },
+      {
+        "name": "天瀑步行街",
+        "order": 8,
+        "coordinates": {
+          "lat": 26.06,
+          "lng": 105.77
+        },
+        "note": "文化墙绘与夜市摊档集中，夜间人流最密的一段",
+        "source_ids": [
+          "qq-zhenning-tourism"
+        ]
+      },
+      {
+        "name": "老东门",
+        "order": 9,
+        "coordinates": {
+          "lat": 26.055,
+          "lng": 105.775
+        },
+        "note": "轴线东端收束处，周边小吃摊密集，适合收尾",
+        "source_ids": [
+          "qq-zhenning-tourism"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "wiki-anzhuangwei",
+        "title": "File:Anzhuangwei, Zhenning Buyei and Miao Autonomous County",
+        "url": "https://en.wikipedia.org/wiki/File:Anzhuangwei,_Zhenning_Buyei_and_Miao_Autonomous_County,_14_May_2020b.jpg",
+        "publisher": "维基百科",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "贵州省安顺市镇宁布依族苗族自治县的安庄卫城楼。2020年5月14日",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "baike-bobotang",
+        "title": "波波糖",
+        "url": "https://baike.baidu.com/item/%E6%B3%A2%E6%B3%A2%E7%B3%96/1937022",
+        "publisher": "百度百科",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "这时在钟鼓楼脚的刘家老曾祖刘兴汉认为镇宁六马盛产芝麻、糯米、麦子",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "baike-luruiguang",
+        "title": "陆瑞光",
+        "url": "https://baike.baidu.com/item/%E9%99%86%E7%91%9E%E5%85%89/8081778",
+        "publisher": "百度百科",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "1929年5月率紫云、关岭及镇宁3县边界1000多农民武装袭击镇宁县城，吓跑了县长李刚和天主教堂的外国神父",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "wiki-redflaglake",
+        "title": "Red Flag Lake (Zhenning County)",
+        "url": "https://en.wikipedia.org/wiki/Red_Flag_Lake_(Zhenning_County)",
+        "publisher": "维基百科",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "also known as Red Flag Reservoir (红旗水库)",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "qq-zhenning-tourism",
+        "title": "镇宁：农文旅体融合 激活县域发展动能",
+        "url": "https://news.qq.com/rain/a/20250729A09N2B00",
+        "publisher": "腾讯新闻",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "天瀑步行街文化墙绘以光影勾勒出镇宁的山水风情与民族文化，吸引游客驻足拍照留念",
+        "media": {
+          "type": "none"
+        }
+      }
+    ],
+    "traceability": "C",
+    "notes": "九节点顺序按老城实际方位排定，全长6公里为步行估算。唸佛寺与老粮仓两项未获独立文献来源，坐标与开放状态须实地踏勘后修订，不可直接对外发布。",
+    "tags": [
+      "城市漫步",
+      "中轴线",
+      "老城",
+      "历史建筑",
+      "镇宁"
+    ],
+    "related_entry_ids": [
+      "zhenning-night-walk-line",
+      "zhenning-yelang-cave"
+    ],
+    "narrative": {
+      "hook": "一条街走完，六百年的层次就叠在脚底下。",
+      "scene": "从寺门口的石阶下来，城墙的夯土还露着一截。再往前是教堂的尖顶，转角一间矮仓房，木门上的编号褪了色。走到湖边，风把水面吹皱，远处步行街的灯已经亮了。"
+    }
+  },
+  {
+    "entry_id": "zhenning-fengtangli",
+    "entry_no": "C15",
+    "entry_type": "thematic",
+    "title": "镇宁蜂糖李",
+    "subtitle": "从一棵母本树到37亿元产业",
+    "category": [
+      "地理标志",
+      "水果",
+      "产业"
+    ],
+    "region": "镇宁自治县·六马镇",
+    "coordinates": {
+      "lat": 25.75,
+      "lng": 105.85
+    },
+    "chapter_index": 5,
+    "scroll_anchor": "plum",
+    "hero_media": {
+      "type": "none"
+    },
+    "summary": "蜂糖李母本树在镇宁六马镇打帮乡夹道村磨也组，旧称“桐壳李”。其得名有两种并行说法：民间传说母本树上方蜂巢溢蜜、蜜顺树干入根，果实甜如蜂蜜；另有记载称20世纪80年代第一株蜂糖李树苗“嫁”到六马弄袍村。2026年镇宁种植总面积22.01万亩，挂果投产预计18.2万亩，鲜果产量预估7.7万吨，综合产值有望突破37亿元。",
+    "claims": [
+      {
+        "text": "民间传说：母本之树上有一个蜂巢，溢出的蜂蜜被树吸收，结出的果实甘甜可口犹如蜂蜜，蜂糖李由此得名。",
+        "source_ids": [
+          "gmw-fengtangli",
+          "sohu-fengtangli-origin"
+        ],
+        "variant": "民间传说",
+        "confidence": "secondary"
+      },
+      {
+        "text": "科研与报道记载：20世纪80年代，第一株蜂糖李树苗“嫁”到了镇宁六马弄袍村，此后在当地繁衍成片。",
+        "source_ids": [
+          "gmw-fengtangli"
+        ],
+        "variant": "科研记载",
+        "confidence": "direct"
+      },
+      {
+        "text": "蜂糖李起源于镇宁自治县六马镇打帮乡夹道村磨也组，其果大似当地油桐，旧称“桐壳李”，后因味甜如蜜改称蜂糖李。",
+        "source_ids": [
+          "sohu-fengtangli-origin"
+        ],
+        "variant": "母本树与旧称",
+        "confidence": "secondary"
+      },
+      {
+        "text": "2026年镇宁县蜂糖李种植总面积22.01万亩，挂果投产面积预计18.2万亩，鲜果总产量预估7.7万吨，综合产值有望突破37亿元。",
+        "source_ids": [
+          "chinadaily-fengtangli"
+        ],
+        "variant": "产业数据",
+        "confidence": "direct"
+      },
+      {
+        "text": "2025年镇宁县蜂糖李预计投产面积17.6万亩，产量6.75万吨，实现连续9年产量、产值“双提升”。",
+        "source_ids": [
+          "xinhua-fengtangli"
+        ],
+        "variant": "年度产量",
+        "confidence": "direct"
+      },
+      {
+        "text": "镇宁蜂糖李主产区属北盘江流域低热河谷小气候，海拔较低、无霜期长、昼夜温差大、日照充足，平均甜度18%以上。",
+        "source_ids": [
+          "xinhua-fengtangli"
+        ],
+        "variant": "产地条件",
+        "confidence": "direct"
+      }
+    ],
+    "sources": [
+      {
+        "id": "gmw-fengtangli",
+        "title": "此果敢叫“蜂糖李”",
+        "url": "https://news.gmw.cn/2024-09/06/content_37546102.htm",
+        "publisher": "光明网·光明日报",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "相传蜂糖李的母本之树上有一个蜂巢，其溢出的蜂蜜被树吸收了，使得结出的果实甘甜可口",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "chinadaily-fengtangli",
+        "title": "2026年镇宁蜂糖李综合产值有望突破37亿元",
+        "url": "https://cn.chinadaily.com.cn/a/202606/11/WS6a2a4afaa310942cc49b12f1.html",
+        "publisher": "中国日报网（转新华网）",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "蜂糖李种植总面积22.01万亩，2026年挂果投产面积预计18.2万亩，鲜果总产量预估7.7万吨",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "xinhua-fengtangli",
+        "title": "小小蜂糖李　“甜”出30亿",
+        "url": "https://www.news.cn/food/20250711/c5661aadc9e54fc589833c837578043c/c.html",
+        "publisher": "新华网",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "今年，镇宁县蜂糖李预计投产面积达17.6万亩，产量达6.75万吨",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "sohu-fengtangli-origin",
+        "title": "蜂糖李丨从“李”的故事开始",
+        "url": "https://www.sohu.com/a/531997448_121305451",
+        "publisher": "搜狐号·礼誉生态农业",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "蜂糖李起源于镇宁自治县六马镇打帮乡夹道村磨也组，其果大似当地油桐，称之为桐壳李",
+        "media": {
+          "type": "none"
+        }
+      }
+    ],
+    "traceability": "A/B",
+    "notes": "民间传说与科研记载两种说法并列，不做裁决，不标可信度高低。产业数据据2026年6月发布会，年度产量据2025年新华网，两组数字分年并列，不可混用。",
+    "tags": [
+      "蜂糖李",
+      "地理标志",
+      "六马镇",
+      "产业数据",
+      "母本树"
+    ],
+    "related_entry_ids": [
+      "zhenning-fengtangli-harvest",
+      "zhenning-buyi-cuisine"
+    ],
+    "narrative": {
+      "hook": "一棵野树上的果子，最后长成了三十七亿的产业。",
+      "scene": "坡地陡到近四十度，李树顺着山势一列列排开。果子青中透黄，捏一下能弹回来。树下摆着分拣器，人蹲着装箱，红色帐篷沿街一直搭到镇口。"
+    }
+  },
+  {
+    "entry_id": "zhenning-fengtangli-harvest",
+    "entry_no": "C16",
+    "entry_type": "index",
+    "title": "蜂糖李采收时序",
+    "subtitle": "从低热河谷往高处依次开园",
+    "category": [
+      "采收",
+      "时序",
+      "索引"
+    ],
+    "region": "镇宁自治县·六马镇／良田镇／简嘎乡／沙子乡",
+    "coordinates": {
+      "lat": 25.75,
+      "lng": 105.85
+    },
+    "chapter_index": 5,
+    "scroll_anchor": "plum",
+    "hero_media": {
+      "type": "none"
+    },
+    "summary": "蜂糖李按海拔与河谷热量差异分梯次开园，同一县内不同海拔的果园开园日可相差二十天以上。主产区集中在六马镇、良田镇、沙子乡、简嘎乡等地，采收期自六月中旬起持续约一个月。2023年公开的分区域时序为：简嘎乡、良田镇、六马镇最早于6月9日开园，沙子乡随后。各年具体开园日随花期与天气浮动。",
+    "claims": [
+      {
+        "text": "镇宁蜂糖李主产区集中在六马镇、良田镇、沙子乡、简嘎乡等地，自六月中旬起进入一年中最忙的采收季。",
+        "source_ids": [
+          "sohu-harvest-2024"
+        ],
+        "variant": "产区范围",
+        "confidence": "direct"
+      },
+      {
+        "text": "2023年镇宁蜂糖李分区域采收时序初步为：简嘎乡、良田镇、六马镇最早开园采摘时间为6月9日，沙子乡随后开园。",
+        "source_ids": [
+          "sohu-harvest-2023"
+        ],
+        "variant": "2023年时序",
+        "confidence": "secondary"
+      },
+      {
+        "text": "蜂糖李主产区属北盘江流域低热河谷小气候，海拔较低、无霜期长、昼夜温差大，采收期随海拔高低依次推进。",
+        "source_ids": [
+          "xinhua-fengtangli"
+        ],
+        "variant": "时序成因",
+        "confidence": "direct"
+      },
+      {
+        "text": "六马镇为蜂糖李发源地与核心主产区，采收季镇区涌入大量外地车辆与水果客商，宾馆一房难求。",
+        "source_ids": [
+          "xinhua-fengtangli",
+          "xinhua-fengtangli-2024"
+        ],
+        "variant": "核心产区",
+        "confidence": "direct"
+      }
+    ],
+    "sources": [
+      {
+        "id": "sohu-harvest-2023",
+        "title": "2023年镇宁蜂糖李分区域采收时序",
+        "url": "https://www.sohu.com/a/684600063_121106902",
+        "publisher": "搜狐号",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "第一梯次中简嘎乡、良田镇、六马镇最早开园采摘时间为6月9日；第二梯次中沙子乡预计最早开园",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "sohu-harvest-2024",
+        "title": "“甜蜜”事业再启程 镇宁蜂糖李销售旺",
+        "url": "https://www.sohu.com/a/790434579_121106687",
+        "publisher": "搜狐（转市州党报）",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "自六月中旬以来，镇宁的六马镇、良田镇、沙子乡、简嘎乡等蜂糖李产地又迎来了一年忙碌的季节",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "xinhua-fengtangli",
+        "title": "小小蜂糖李　“甜”出30亿",
+        "url": "https://www.news.cn/food/20250711/c5661aadc9e54fc589833c837578043c/c.html",
+        "publisher": "新华网",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "主产区乡镇属北盘江流域特殊低热河谷小气候地带，海拔较低、无霜期长、昼夜温差大",
+        "media": {
+          "type": "none"
+        }
+      },
+      {
+        "id": "xinhua-fengtangli-2024",
+        "title": "乡味｜独一无二的“甜蜜名片” 一颗小李子带动十亿大产业",
+        "url": "http://www.xinhuanet.com/gongyi/20240708/e923403a995e43ccb4a8ad8ef3f82b8d/c.html",
+        "publisher": "新华网",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "到6月中旬的时候，这个小镇已经聚集了六七百名外地的水果采购商",
+        "media": {
+          "type": "none"
+        }
+      }
+    ],
+    "traceability": "C",
+    "notes": "6月18日打帮、简嘎、坝草，6月23日六马、良田，6月30日沙子乡，以及高峰6月10至15日、周期25至30天等具体说法，未获可引用来源印证，本条未采；现仅存2023年时序可引。",
+    "tags": [
+      "蜂糖李",
+      "采收",
+      "时序",
+      "六马镇",
+      "待核"
+    ],
+    "related_entry_ids": [
+      "zhenning-fengtangli",
+      "zhenning-buyi-cuisine"
+    ],
+    "narrative": {
+      "hook": "同一个县，李子熟的日子不一样。",
+      "scene": "河谷里的园子先开，果农天没亮就打灯上山，头灯在坡上连成一线。往高处走，果子还青着，得再等十来天。收购车停在路口，秤抬下来，一筐筐过磅。"
+    }
+  }
+]

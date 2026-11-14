@@ -1,0 +1,745 @@
+[
+  {
+    "entry_id": "anshun-city-walk-line",
+    "entry_no": "B1",
+    "entry_type": "route",
+    "title": "小十字—顾府街—古城—虹山湖动线",
+    "subtitle": "一条串起老街与湖岸的日常步行线",
+    "category": ["城市漫步", "老街", "湖岸"],
+    "region": "贵州省安顺市西秀区",
+    "coordinates": { "lat": 26.2415, "lng": 105.9367 },
+    "chapter_index": 0,
+    "scroll_anchor": "",
+    "hero_media": { "type": "none", "url": "", "fallback_url": "", "credit": "", "license": "" },
+    "summary": "这条动线从小十字起步，沿顾府街向北进入安顺古城，再折向虹山湖公园，经九孔桥、狮子山观景台，最后落在东山路早市。顾府街因明代顾成在此开府建衙得名，全长不足600米，2024年底完成提质改造后日均人流量超过3万人次。安顺古城2024年春节开街，2025年接待游客超1800万人次。虹山湖为国家4A级旅游景区，沿湖绿道约4.5公里。早市清晨七点前后最热闹，早点摊与果蔬摊分列两侧。",
+    "claims": [
+      {
+        "text": "顾府街因明洪武十四年安顺建城后夏国公顾成在此开府建衙而得名，至今六百余年，街道全长不足600米。",
+        "source_ids": ["src_01", "src_02"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "2024年底，顾府街完成“修旧如旧”提质改造，青石板替换水泥路面，人行道拓宽，地下管网、灯光亮化与配套停车场同步升级。",
+        "source_ids": ["src_02"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "改造后顾府街日均人流量超过3万人次，节假日常突破10万人次；白天为单行道，夜间转为步行街与小吃街。",
+        "source_ids": ["src_01", "src_02"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "安顺古城历史文化街区于2024年春节开街，2025年接待游客超1800万人次。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "虹山湖公园为国家4A级旅游景区，不收门票；沿湖绿道约4.5公里，九孔桥有九个拱，狮子山步行约十分钟可登顶。",
+        "source_ids": ["src_03"],
+        "variant": "事实",
+        "confidence": "secondary"
+      },
+      {
+        "text": "虹山湖东侧东山路早市清晨七点前后人声鼎沸，靠墙一侧小店供应早点，靠湖一侧为果蔬摊位。",
+        "source_ids": ["src_04"],
+        "variant": "事实",
+        "confidence": "direct"
+      }
+    ],
+    "route_points": [
+      {
+        "name": "小十字",
+        "order": 1,
+        "coordinates": { "lat": 26.2415, "lng": 105.9367 },
+        "note": "中华南路与塔山东路交叉口一带，老城南部路口，动线由此向北进顾府街",
+        "source_ids": ["src_05"]
+      },
+      {
+        "name": "顾府街",
+        "order": 2,
+        "coordinates": { "lat": 26.2426, "lng": 105.9378 },
+        "note": "六百余年老街，全长不足600米，改造后日均人流量超3万人次",
+        "source_ids": ["src_01", "src_02"]
+      },
+      {
+        "name": "安顺古城历史文化街区",
+        "order": 3,
+        "coordinates": { "lat": 26.2463, "lng": 105.9348 },
+        "note": "2024年春节开街，2025年接待游客超1800万人次",
+        "source_ids": ["src_01"]
+      },
+      {
+        "name": "虹山湖公园",
+        "order": 4,
+        "coordinates": { "lat": 26.2563, "lng": 105.9386 },
+        "note": "国家4A级旅游景区，免费开放，沿湖绿道约4.5公里",
+        "source_ids": ["src_03"]
+      },
+      {
+        "name": "九孔桥",
+        "order": 5,
+        "coordinates": { "lat": 26.2575, "lng": 105.937 },
+        "note": "湖上九个石拱，入夜灯亮后九个半圆在水里接成一串",
+        "source_ids": ["src_03"]
+      },
+      {
+        "name": "狮子山观景台",
+        "order": 6,
+        "coordinates": { "lat": 26.259, "lng": 105.936 },
+        "note": "步行约十分钟登顶，山顶两座观景塔可俯瞰湖面与城区",
+        "source_ids": ["src_03"]
+      },
+      {
+        "name": "虹山湖早市（东山路）",
+        "order": 7,
+        "coordinates": { "lat": 26.254, "lng": 105.9395 },
+        "note": "清晨七点前后最热闹，早点摊与果蔬摊沿路排开",
+        "source_ids": ["src_04"]
+      }
+    ],
+    "sources": [
+      {
+        "id": "src_01",
+        "title": "山水藏韵 烟火留人——安顺文旅体融合年均接待游客近6000万人次",
+        "url": "https://www.guizhou.gov.cn/ztzl/lycyh/zxdt/202602/t20260212_89507202.html",
+        "publisher": "贵州省人民政府网（贵州日报天眼新闻）",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "顾府街是一条600年老街，全长不足600米，日均人流量超过了3万人次，节假日常突破10万人次",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_02",
+        "title": "【街巷消费密码】安顺：顾府街修旧如旧 日均客流量超3万人次",
+        "url": "https://www.sohu.com/a/881656012_121106687",
+        "publisher": "天眼新闻（贵州日报）",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "顾府街自2024年底完成提质改造，坚持修旧如旧，白天是单行道，夜晚变成步行街和小吃街",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_03",
+        "title": "别只盯着黄果树，安顺最被低估的，是这片免费4A湖！",
+        "url": "https://163.com/dy/article/LBG9LUP20552M20P.html",
+        "publisher": "网易号自媒体",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "沿湖绿道大约4.5公里，虹山湖最好认的地标是九孔桥，湖那头的狮子山十分钟就能登顶",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_04",
+        "title": "虹山湖早市“出圈”了！品味地道安顺，从一顿早餐开始",
+        "url": "https://www.anshun.gov.cn/xwzx/asyw/202608/t20260812_90724229.html",
+        "publisher": "安顺市人民政府网（掌上安顺）",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "早市位于西秀区东山路，毗邻虹山湖公园，清晨七点人声鼎沸，靠墙一侧小店卖早点，靠湖一侧是果蔬摊",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_05",
+        "title": "安顺农商银行（小十字支行）地图页",
+        "url": "https://www.amap.com/place/B0KBHAIGL0",
+        "publisher": "高德地图",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "地址为安顺市西秀区中华南路与塔山东路交叉口东北160米，地理坐标26.241452,105.936749",
+        "media": { "type": "none" }
+      }
+    ],
+    "traceability": "A/B",
+    "notes": "环湖绿道长度有“约4.5公里”与“4公里”两种表述，此处并列保留，不作裁断。小十字、古城、虹山湖各点坐标取自地图POI或按周边道路推算，为近似值，实地踏查需校准。顾府街人流量为管理方与媒体口径，未见统计原始数据。",
+    "tags": ["城市漫步", "老街", "湖岸", "早市", "免费开放"],
+    "related_entry_ids": ["anshun-oldtown-night", "anshun-hongshanhu-lake", "anshun-hongshanhu-morning-market"],
+    "narrative": {
+      "hook": "安顺人的一天，从街口走到湖边。",
+      "scene": "上午的顾府街是单行道，青石板路面一直铺到街尾，电动车贴着边线慢慢挪。抬头是古城方向的新门头，颜色偏沉。再往北风变宽，虹山湖把天光摊平，九孔桥的九个拱一个接一个落进水里；岸边有人压腿、甩龙，环湖路上市民慢跑。"
+    }
+  },
+  {
+    "entry_id": "anshun-oldtown-night",
+    "entry_no": "B2",
+    "entry_type": "thematic",
+    "title": "安顺古城夜游",
+    "subtitle": "灯亮之后，老街换了一副面孔",
+    "category": ["夜游", "古城", "河岸"],
+    "region": "贵州省安顺市西秀区",
+    "coordinates": { "lat": 26.2463, "lng": 105.9348 },
+    "chapter_index": 0,
+    "scroll_anchor": "",
+    "hero_media": { "type": "none", "url": "", "fallback_url": "", "credit": "", "license": "" },
+    "summary": "安顺古城历史文化街区以“三庙三街”为总体框架，依托“一河两岸三点”布局，累计完成投资20.1亿元。街区引入钟书阁、艺术粮仓等文化场馆及蜡染、旅拍等新业态商户166家，常态化开展地戏巡游与无人机表演。夜间贯城河开行花船巡游，三元桥设水雾灯光。古城共有151处历史建筑，其中文物保护单位11处。2024年春节开街，2025年接待游客超1800万人次。",
+    "claims": [
+      {
+        "text": "安顺古城历史文化街区于2024年春节开街，2025年接待游客超1800万人次。",
+        "source_ids": ["src_04"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "古城提质改造以“三庙（文庙、武庙、县学宫）三街（儒林路、蔡衙街、东街）”为框架，依托“一河两岸三点”布局，累计完成投资20.1亿元。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "街区引入钟书阁、艺术粮仓等文化场馆及非遗蜡染、旅拍等新业态商户166家，常态化开展地戏巡游与无人机表演。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "夜间贯城河开行花船巡游，三元桥设水雾灯光；2025年4月10日贵州省第十九届旅游产业发展大会在安顺举办。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "2025年国庆假期，炮台街音乐会每晚19:30开演，由本土乐队演出；古城内十余家大小茶馆分布在老院落里。",
+        "source_ids": ["src_02"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "古城共有151处历史建筑，其中文物保护单位11处；自2023年起按“修旧如旧”推进黉学坝路、儒林路北段、钟书阁书店、艺术粮仓等项目。",
+        "source_ids": ["src_03"],
+        "variant": "事实",
+        "confidence": "direct"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src_01",
+        "title": "解码安顺文旅：一次“会”带火一座城",
+        "url": "http://gz.news.cn/20251127/01c2c0d2683b4e7fbfbe6df74e6a27c0/c.html",
+        "publisher": "新华网贵州频道",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "依托“一河（贯城河）两岸三点（黉学坝、儒林路、粮仓）”布局，累计完成投资20.1亿元，引入新业态商户166家",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_02",
+        "title": "漫游安顺古城 邂逅人间烟火",
+        "url": "https://www.sohu.com/a/1084997409_121106902",
+        "publisher": "安顺市人民政府网（搜狐转载）",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "10月2日晚19:30炮台街音乐会开演，国庆假期每晚19:30开演；古城有10多家藏在老院落里的大小茶馆",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_03",
+        "title": "贵州安顺：老景区有了新玩法",
+        "url": "https://news.gmw.cn/2025-04/13/content_37962728.htm",
+        "publisher": "光明网",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "安顺古城共有151处历史建筑，其中文物保护单位11处；自2023年起“修旧如旧”建设黉学坝路、儒林路北段等项目",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_04",
+        "title": "山水藏韵 烟火留人——安顺文旅体融合年均接待游客近6000万人次",
+        "url": "https://www.guizhou.gov.cn/ztzl/lycyh/zxdt/202602/t20260212_89507202.html",
+        "publisher": "贵州省人民政府网（贵州日报天眼新闻）",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "安顺古城自2024年春节开街，2025年接待游客超1800万人次",
+        "media": { "type": "none" }
+      }
+    ],
+    "traceability": "A/B",
+    "notes": "花船巡游、三元桥水雾灯光与炮台街音乐会是常态化项目与节假期限定场次并存，具体班次与演出时间未获稳定来源，行前需核实。夜景亮灯时刻、各场馆夜间闭馆时间亦无权威表述。",
+    "tags": ["夜游", "古城", "贯城河", "地戏", "免费开放"],
+    "related_entry_ids": ["anshun-city-walk-line", "anshun-courtyard-teahouse"],
+    "narrative": {
+      "hook": "七点以后，古城才把灯点起来。",
+      "scene": "贯城河两岸的灯笼亮起来，水面接住灯光，倒影比岸上的实物更长。三元桥一带浮着薄薄的水雾，花船从桥下过，船上的灯把桥拱勾出轮廓。炮台街的音响试了两声，裹卷的油锅响起来，人顺着香味往巷子里拐。"
+    }
+  },
+  {
+    "entry_id": "anshun-courtyard-teahouse",
+    "entry_no": "B3",
+    "entry_type": "place",
+    "title": "古城院落茶馆",
+    "subtitle": "院落、河水与一壶十元的清茶",
+    "category": ["茶馆", "院落", "夜生活"],
+    "region": "贵州省安顺市西秀区",
+    "coordinates": { "lat": 26.2465, "lng": 105.934 },
+    "chapter_index": 0,
+    "scroll_anchor": "",
+    "hero_media": { "type": "none", "url": "", "fallback_url": "", "credit": "", "license": "" },
+    "summary": "安顺古城内分布着十余家藏在老院落里的大小茶馆，多依托原有院落格局经营。贯城河畔的东坡茶馆为古朴院落，院内有古井，一壶清茶十元，另备卷粉、夺夺粉等小吃，负责人熊杨华在店内推出吉他弹唱与评书。安顺记忆馆内设有戏茶馆，院落式通透空间融合品茶、观戏与文创选购。黉学坝路有春来茶业古城店等本地茶号。",
+    "claims": [
+      {
+        "text": "安顺古城内分布着十余家藏在老院落里的大小茶馆，多依托原有院落格局经营。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "贯城河畔的东坡茶馆为古朴院落，院内有古井，一壶清茶十元，另备卷粉、夺夺粉等小吃。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "东坡茶馆由负责人熊杨华经营，店内除饮茶外推出吉他弹唱与评书等演出内容，供客人闲坐时观看。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "安顺记忆馆内设有戏茶馆，空间为院落式通透布局，融合品茶、观戏与文创选购，售卖手工蜡染制品、冰箱贴与非遗挂件。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "黉学坝路有春来茶业古城店等本地茶号；西秀区风格各异的精品咖啡馆由5家增至30家，分布于古城街巷与景点周边。",
+        "source_ids": ["src_01", "src_02"],
+        "variant": "事实",
+        "confidence": "direct"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src_01",
+        "title": "漫游安顺古城 邂逅人间烟火",
+        "url": "https://www.sohu.com/a/1084997409_121106902",
+        "publisher": "安顺市人民政府网（搜狐转载）",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "贯城河畔的东坡茶馆古朴院落依河而立，院内有古井，十元一壶清茶，备有卷粉、夺夺粉",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_02",
+        "title": "以咖为媒，赋能文旅！解锁安顺特色消费新场景",
+        "url": "http://gz.people.com.cn/n2/2026/0921/c411546-41703267.html",
+        "publisher": "人民网贵州频道",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "西秀区风格各异的精品咖啡馆由5家增长至30家，遍布安顺古城、社区街巷、旅游景点甚至乡村山野",
+        "media": { "type": "none" }
+      }
+    ],
+    "traceability": "C",
+    "notes": "核心事实仅见于安顺市人民政府网稿件的一家转载版本，未获原发页面或其他媒体复核，故定为C级。“日茶夜酒”未找到权威表述，正文未采用，只保留可核验的白日饮茶与演出内容。营业时间、座位与价格需现场核实。",
+    "tags": ["茶馆", "院落", "古城", "评书", "本地茶"],
+    "related_entry_ids": ["anshun-oldtown-night", "anshun-baiding-artspace"],
+    "narrative": {
+      "hook": "十元一壶茶，坐一下午。",
+      "scene": "院门比街面低半步，进去是一口古井，井沿被磨得圆润。竹椅摆得疏，茶壶是玻璃的，茶汤浅黄。河在墙外走，声音很轻。有人弹吉他，唱到一半停下来调弦，也没人催。"
+    }
+  },
+  {
+    "entry_id": "anshun-hongshanhu-lake",
+    "entry_no": "B4",
+    "entry_type": "place",
+    "title": "虹山湖环湖日常",
+    "subtitle": "一座城把最好的水面留给了散步",
+    "category": ["湖岸", "城市公园", "日常"],
+    "region": "贵州省安顺市西秀区",
+    "coordinates": { "lat": 26.2563, "lng": 105.9386 },
+    "chapter_index": 0,
+    "scroll_anchor": "",
+    "hero_media": { "type": "none", "url": "", "fallback_url": "", "credit": "", "license": "" },
+    "summary": "虹山湖公园为国家4A级旅游景区，免费开放，被本地称为安顺的“城市会客厅”。前身为1958年9月建成的虹山水库，作为公园最早建成于1985年，最初是约2公顷的袖珍公园，2017年获批国家4A级旅游景区。现总面积195.94公顷，其中水域56公顷、湿地59.43公顷、绿地78.6公顷。沿湖绿道约4.5公里，湖上九孔桥有九个拱，狮子山步行约十分钟可登顶。",
+    "claims": [
+      {
+        "text": "虹山湖公园为国家4A级旅游景区，免费开放，被本地称为安顺的“城市会客厅”。",
+        "source_ids": ["src_01", "src_04"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "虹山湖前身为1958年9月建成的虹山水库；作为公园最早建成于1985年，最初是约2公顷的袖珍公园，2017年获批国家4A级旅游景区。",
+        "source_ids": ["src_02", "src_03"],
+        "variant": "事实",
+        "confidence": "secondary"
+      },
+      {
+        "text": "虹山湖现总面积195.94公顷，其中水域56公顷、湿地59.43公顷、绿地78.6公顷、山体29公顷。",
+        "source_ids": ["src_02"],
+        "variant": "事实",
+        "confidence": "secondary"
+      },
+      {
+        "text": "沿湖绿道约4.5公里，路面平缓无大坡，慢走约一小时；湖上九孔桥有九个拱，入夜灯亮后九个半圆在水中相接。",
+        "source_ids": ["src_02"],
+        "variant": "事实",
+        "confidence": "secondary"
+      },
+      {
+        "text": "狮子山步行约十分钟可登顶，山顶有两座观景塔，可俯瞰湖面、屋顶与远处山脊。",
+        "source_ids": ["src_02"],
+        "variant": "事实",
+        "confidence": "secondary"
+      },
+      {
+        "text": "清晨至夜间，环湖步道与空地常年有市民打拳、跳舞、甩龙、压腿、慢跑与游泳；湖边设有一处城市书房。",
+        "source_ids": ["src_01", "src_02"],
+        "variant": "事实",
+        "confidence": "secondary"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src_01",
+        "title": "西秀区：全力提质虹山湖环境 擦亮城市生态文旅名片",
+        "url": "http://gz.people.com.cn/BIG5/n2/2026/0909/c412523-41690651.html",
+        "publisher": "人民网贵州频道",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "作为国家4A级旅游景区和安顺的“城市会客厅”，虹山湖公园周边虹山湖路、东山路、武当山路、环湖西路均落实全天候清扫保洁",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_02",
+        "title": "别只盯着黄果树，安顺最被低估的，是这片免费4A湖！",
+        "url": "https://163.com/dy/article/LBG9LUP20552M20P.html",
+        "publisher": "网易号自媒体",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "虹山湖现在总面积195.94公顷，水域56公顷，湿地59.43公顷，绿地78.6公顷，山体29公顷",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_03",
+        "title": "安顺虹山湖市民公园 by 奥雅设计",
+        "url": "https://gooood.cn/anshun-hongshan-lake-civil-park-china-by-la-design.htm",
+        "publisher": "gooood 谷德设计网",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "虹山湖公园最早建成于1985年，最初是2公顷的袖珍公园，2017年虹山湖被批准为国家4A级旅游景区",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_04",
+        "title": "虹山湖公园地图页",
+        "url": "https://www.amap.com/place/B03550029D",
+        "publisher": "高德地图",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "地址为安顺市西秀区虹山湖路，地理坐标26.256265,105.938558",
+        "media": { "type": "none" }
+      }
+    ],
+    "traceability": "B",
+    "notes": "4A级资质与管理措施为A级来源，但面积、绿道长度、九孔桥与狮子山细节主要来自一篇自媒体长文，未获官方复核，故整体定为B级。绿道长度另有“4公里”说法并列保留。坐标取地图POI，湖岸各点需实地校准。",
+    "tags": ["湖岸", "城市公园", "免费开放", "环湖步道", "晨练"],
+    "related_entry_ids": ["anshun-hongshanhu-morning-market", "anshun-city-walk-line"],
+    "narrative": {
+      "hook": "湖是免费的，早上五点多就有人来。",
+      "scene": "天刚亮，空地上有人打拳、跳舞、甩龙、压腿，环湖路上是慢跑的人，步子不急。有人常年在这水里游泳，冬天也下。九孔桥的九个拱横在水面上，白天是石头的灰白，岸边有人把外套搭在栏杆上。"
+    }
+  },
+  {
+    "entry_id": "anshun-hongshanhu-morning-market",
+    "entry_no": "B5",
+    "entry_type": "thematic",
+    "title": "虹山湖早市",
+    "subtitle": "一碗粉、一份油炸粑稀饭的清晨",
+    "category": ["早市", "小吃", "日常"],
+    "region": "贵州省安顺市西秀区",
+    "coordinates": { "lat": 26.254, "lng": 105.9395 },
+    "chapter_index": 0,
+    "scroll_anchor": "",
+    "hero_media": { "type": "none", "url": "", "fallback_url": "", "credit": "", "license": "" },
+    "summary": "虹山湖早市位于西秀区东山路，毗邻虹山湖公园，清晨七点前后人声鼎沸。靠墙一侧的小店供应香酥小油条、油炸粑稀饭、花江剪粉等本地早点，靠湖一侧是果蔬摊位。花江剪粉摊主张小芬营业至中午12点，每天卖出400多碗，日营业额三千多元。“食全食美”早餐店经营20年，日均营业额三四千元。",
+    "claims": [
+      {
+        "text": "虹山湖早市位于西秀区东山路，毗邻虹山湖公园，清晨七点前后人声鼎沸。",
+        "source_ids": ["src_01", "src_02"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "靠墙一侧的小店供应香酥小油条、油炸粑稀饭、花江剪粉等本地早点，靠湖一侧为果蔬摊位。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "花江剪粉摊主张小芬营业至中午12点，每天卖出400多碗，日营业额三千多元。",
+        "source_ids": ["src_01", "src_03"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "“食全食美”早餐店经营20年，店主李贵莲，日均营业额三四千元，油炸粑稀饭、肉饼与凉菜最畅销。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "本地市民杨国勇晨练后逛早市；重庆游客逛完虹山湖环湖步道后直接进早市吃花江剪粉。",
+        "source_ids": ["src_01", "src_03"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "美食博主在短视频平台推介早市的鹅肉粉、高粱汤圆与鸡蛋糕，内容被转发至携程、小红书。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src_01",
+        "title": "虹山湖早市“出圈”了！品味地道安顺，从一顿早餐开始",
+        "url": "https://www.anshun.gov.cn/xwzx/asyw/202608/t20260812_90724229.html",
+        "publisher": "安顺市人民政府网（掌上安顺）",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "早市位于西秀区东山路，毗邻虹山湖公园，清晨七点人声鼎沸，靠墙一侧小店有香酥小油条、油炸粑稀饭、花江剪粉",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_02",
+        "title": "虹山湖早市“出圈”了！品味地道安顺，从一顿早餐开始（转载）",
+        "url": "https://www.sohu.com/a/1061913149_121106902",
+        "publisher": "搜狐（安顺市人民政府网稿件转载）",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "早市位于西秀区东山路，毗邻虹山湖公园，清晨七点前后人声鼎沸，摊主营业至中午",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_03",
+        "title": "别只盯着黄果树，安顺最被低估的，是这片免费4A湖！",
+        "url": "https://163.com/dy/article/LBG9LUP20552M20P.html",
+        "publisher": "网易号自媒体",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "湖东侧的早市是另一番景象，做花江剪粉的张小芬在这儿摆了好几年，逛完湖的客人顺路过来吃一碗",
+        "media": { "type": "none" }
+      }
+    ],
+    "traceability": "A",
+    "notes": "早市的位置、摊主与营业额均出自安顺市人民政府网稿件，另有市媒转载版与一篇自媒体佐证。摊主姓名与营业额为受访者口述，非统计口径；出摊时间与是否随季节调整需现场核实。",
+    "tags": ["早市", "小吃", "花江剪粉", "油炸粑稀饭", "市井"],
+    "related_entry_ids": ["anshun-hongshanhu-lake", "anshun-city-walk-line"],
+    "narrative": {
+      "hook": "七点，湖边先醒的是锅。",
+      "scene": "靠墙一侧的店面挨着排开，油锅响，油炸粑在漏勺里翻个身。靠湖一侧是果蔬摊，青菜上还带水。剪粉摊前站了三四个人，碗递出来，红油浮在汤面上。逛完湖的人顺着路拐进来，把外套搭在手臂上。"
+    }
+  },
+  {
+    "entry_id": "anshun-baiding-artspace",
+    "entry_no": "B6",
+    "entry_type": "place",
+    "title": "白丁艺库文创园",
+    "subtitle": "老床单厂里的茶、咖啡与市集",
+    "category": ["文创园", "工业遗产", "市集"],
+    "region": "贵州省安顺市西秀区",
+    "coordinates": { "lat": 26.248, "lng": 105.943 },
+    "chapter_index": 0,
+    "scroll_anchor": "",
+    "hero_media": { "type": "none", "url": "", "fallback_url": "", "credit": "", "license": "" },
+    "summary": "白丁艺库文创园由原安顺床单厂老厂房改造而成，保留斑驳墙体与原有梁柱骨架。床单厂于2000年前后停产，厂房闲置荒废20余年，2024年周燕从重庆回到安顺租下运营。一期占地2000余平方米，已入驻众·live house、山喃咖啡、翩翩然文创、止坞茶室、小木屋烧烤等业态。每逢周末的“山喃市集”面向手作、非遗与二手收藏摊主免费开放。",
+    "claims": [
+      {
+        "text": "白丁艺库文创园由原安顺床单厂老厂房改造而成，改造保留斑驳墙体与原有梁柱骨架，按“修旧如旧”方式处理。",
+        "source_ids": ["src_01", "src_02", "src_03"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "床单厂于2000年前后停产，厂房闲置荒废20余年；2024年周燕从重庆回到安顺，租下厂房并投入运营。",
+        "source_ids": ["src_03"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "一期占地2000余平方米，已入驻众·live house、山喃咖啡、翩翩然文创、止坞茶室、小木屋烧烤等业态；床单厂总面积上万平方米，一期之外仍在改造。",
+        "source_ids": ["src_01", "src_03"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "每逢周末举办的“山喃市集”面向手作、非遗、二手收藏与生活好物摊主免费开放。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "茶室区域以安顺本土朵贝贡茶为主打，配售木雕与非遗泥板画；园区平日展销屯堡蓝染织物、草木拓印套装。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "园区夜间设音乐现场与烧烤餐饮；每周五晚举办英语沙龙，并与中国美术学院、四川美术学院开展研学合作。",
+        "source_ids": ["src_01", "src_02", "src_04"],
+        "variant": "事实",
+        "confidence": "direct"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src_01",
+        "title": "白丁艺库文创园：内容运营激活空间 多元场景聚集客流",
+        "url": "http://www.anshun.gov.cn/xwzx/xqzc/202607/t20260706_90587802.html",
+        "publisher": "安顺市人民政府网（安顺日报）",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "由原安顺床单厂老厂房改造，修旧如旧，一期占地2000余平方米，每逢周末“山喃市集”向摊主免费开放",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_02",
+        "title": "西秀区：老厂房变身文创园 闲置资源焕发新活力",
+        "url": "http://gz.people.com.cn/BIG5/n2/2026/0410/c412523-41548736.html",
+        "publisher": "人民网贵州频道",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "保留了老厂房原有的建筑形态，斑驳的墙体记录着岁月的流逝，与园内新植入的现代设计元素形成对比",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_03",
+        "title": "改造后的床单厂让生活慢下来",
+        "url": "https://finance.sina.com.cn/jjxw/2026-08-06/doc-inimikrv4128772.shtml",
+        "publisher": "新浪财经（贵州日报转载）",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "白丁艺库前身是原安顺床单厂，2000年前后停产，厂房闲置荒废20余年，2024年周燕从重庆回到安顺租下运营",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_04",
+        "title": "以咖为媒，赋能文旅！解锁安顺特色消费新场景",
+        "url": "http://gz.people.com.cn/n2/2026/0921/c411546-41703267.html",
+        "publisher": "人民网贵州频道",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "园区内的咖啡馆白天提供休闲场景，晚上定期推出英语沙龙等各类文化活动，用持续的内容聚集人气",
+        "media": { "type": "none" }
+      }
+    ],
+    "traceability": "A/B",
+    "notes": "一期面积2000余平方米与厂区总面积上万平方米需区分，后者尚未全部开放；民宿与康养旅居仍在规划，不宜写入行程。坐标为按西秀区城区范围推算的近似值，需实地校准。周末市集是否固定举办应行前确认。",
+    "tags": ["文创园", "工业遗产", "市集", "茶室", "夜间演出"],
+    "related_entry_ids": ["anshun-courtyard-teahouse", "anshun-oldtown-night"],
+    "narrative": {
+      "hook": "斑驳的墙没刷掉，新东西摆进去。",
+      "scene": "厂房很高，墙体斑驳，梁柱还是原来的骨架。咖啡在旧车间里出杯，茶室那边摆着木雕和泥板画。市集的日子，桌子沿墙一溜排开，蓝染的布挂在绳上，风一过就晃。天黑后灯亮，台上开始试音。"
+    }
+  },
+  {
+    "entry_id": "anshun-tianyinshan",
+    "entry_no": "B7",
+    "entry_type": "place",
+    "title": "天印山与帕米尔大草原",
+    "subtitle": "草甸上的帐篷、桨板与山野咖啡",
+    "category": ["山野", "露营", "新兴空间"],
+    "region": "贵州省安顺市镇宁布依族苗族自治县",
+    "coordinates": { "lat": 26.098, "lng": 105.79 },
+    "chapter_index": 0,
+    "scroll_anchor": "",
+    "hero_media": { "type": "none", "url": "", "fallback_url": "", "credit": "", "license": "" },
+    "summary": "天印山景区位于镇宁布依族苗族自治县双龙山街道箐口村，植被繁茂，草甸与缓坡相间，打造露营、住宿、烧烤等休闲业态，帐篷错落分布在草甸间，住宿设施依山而建。社交平台游记提到此处有露营、桨板与山野咖啡，并有大圣之眼、牛倒岩、万峰顶等徒步路线。名为“帕米尔大草原”的景点在旅游平台上被标注在平坝区，另有游记称在普定县。",
+    "claims": [
+      {
+        "text": "天印山景区位于镇宁布依族苗族自治县双龙山街道箐口村，植被繁茂、空气清新，草甸与缓坡相间。",
+        "source_ids": ["src_01", "src_02"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "景区打造露营、住宿、烧烤等多元休闲业态，露营帐篷错落分布在翠绿草甸间，住宿设施依山而建。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "社交平台游记提到天印山可露营、划桨板、喝山野咖啡，并有大圣之眼、牛倒岩、万峰顶等徒步路线。",
+        "source_ids": ["src_03"],
+        "variant": "事实",
+        "confidence": "secondary"
+      },
+      {
+        "text": "旅游平台将“帕米尔大草原”标注在平坝区贵州平坝农业科技示范园东北460米，营业时间10:00至22:00。",
+        "source_ids": ["src_04"],
+        "variant": "事实",
+        "confidence": "secondary"
+      },
+      {
+        "text": "另有游记称帕米尔大草原位于普定县，导航至“帕米尔大草原停车场”，免费开放、24小时可入，末段山路较窄。",
+        "source_ids": ["src_05"],
+        "variant": "事实",
+        "confidence": "secondary"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src_01",
+        "title": "镇宁天印山：住进风景里 享山野之趣",
+        "url": "https://www.sohu.com/a/1020901545_115239",
+        "publisher": "国际在线（贵州日报）",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "安顺市镇宁自治县天印山景区打造露营、住宿、烧烤等多元休闲业态，翠绿草甸间错落分布露营帐篷",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_02",
+        "title": "天印山（镇宁）景点页",
+        "url": "https://trip.com/travel-guide/attraction/zhenning/tianyin-mountain-136601362",
+        "publisher": "Trip.com",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "地址为贵州省安顺市镇宁布依族苗族自治县双龙山街道箐口村，建议游览3至5小时，建议自驾",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_03",
+        "title": "天印山游记：露营+桨板+山野咖啡",
+        "url": "https://my.trip.com/moments/detail/guiyang-33-151672431",
+        "publisher": "Trip Moments 用户",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "天印山可露营、划桨板、喝山野咖啡，还有大圣之眼、牛倒岩与万峰顶徒步路线",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_04",
+        "title": "帕米尔大草原景点页",
+        "url": "https://hk.trip.com/travel-guide/attraction/anshun/city-156480263/",
+        "publisher": "Trip.com",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "地址为贵州平坝农业科技示范园东北460米，营业时间10:00至22:00，20:00停止入场",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_05",
+        "title": "帕米尔大草原游记：导航与停车",
+        "url": "https://my.trip.com/moments/detail/anshun-518-149672342",
+        "publisher": "Trip Moments 用户",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "导航“贵州安顺普定县帕米尔大草原停车场”，最后一段山路窄，免费、24小时开放，草原无店铺、信号弱",
+        "media": { "type": "none" }
+      }
+    ],
+    "traceability": "C",
+    "notes": "现有材料未证明天印山与帕米尔大草原是同一处：前者在镇宁双龙山街道，后者有平坝区与普定县两种说法，三者并列保留，不作裁断。桨板、山野咖啡仅见游记，无官方确认。坐标按周边道路与行政区划推算，务必实地核验。",
+    "tags": ["山野", "露营", "草甸", "新兴空间", "待核实"],
+    "related_entry_ids": ["anshun-hongshanhu-lake", "anshun-baiding-artspace"],
+    "narrative": {
+      "hook": "贵州也有一片草原，在镇宁的山里。",
+      "scene": "草甸顺着缓坡铺开，帐篷一顶一顶散在绿色里，牛马低头吃草。住宿的房子依山而建，落地窗对着草坡。傍晚风变凉，露营区的灯串亮起来，有人端着咖啡坐在门口，不说话。"
+    }
+  }
+]

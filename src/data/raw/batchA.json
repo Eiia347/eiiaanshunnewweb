@@ -1,0 +1,1224 @@
+[
+  {
+    "entry_id": "anshun-daiguangbao-dixi",
+    "entry_no": "A1",
+    "entry_type": "place",
+    "title": "代关堡地戏",
+    "subtitle": "平坝中山村四代同堂的一堂杨家将",
+    "category": ["地戏", "屯堡", "非遗传承"],
+    "region": "安顺市平坝区鼓楼街道",
+    "coordinates": { "lat": 26.42, "lng": 106.26 },
+    "chapter_index": 0,
+    "scroll_anchor": "",
+    "hero_media": { "type": "none", "url": "", "fallback_url": "", "credit": "", "license": "" },
+    "summary": "代关堡位于平坝区鼓楼街道中山村，古称待官堡，是明代“调北征南”屯军驿站。清代中期起，村中以宗族口传心授方式世代演绎杨家将剧目《三下河东》，延续近三百年。地戏队现有50余名成员，集老、中、青、幼四代传承人，最高龄者82岁，最小3岁，另有10余名女性加入。2025年村民与地戏队自筹资金、街道配套扶持建成标准化地戏文化室，2026年3月18日授牌为“中山村代关堡地戏文化传习馆”。",
+    "claims": [
+      {
+        "text": "代关堡古称待官堡，是明代“调北征南”屯军驿站，清代中期开始便以宗族口传心授方式世代演绎杨家将剧目《三下河东》。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "代关地戏延续近三百年，地戏队现有50余名成员，集齐老、中、青、幼四代传承人，上至82岁敲鼓长者，下至3岁幼童。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "地戏队另有10余名女性加入，以传统师徒传承方式延续戏中忠义精神。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "2025年中山村一二组村民联合地戏队自筹资金、街道配套扶持建成标准化地戏文化室，2026年3月18日授牌为“中山村代关堡地戏文化传习馆”。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "73岁的代关地戏队总教练夏天富捧起一张张脸谱，指尖抚过20面清代留存的老面具，逐一点名“这是杨六郎，这是孟怀元”。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "全队最高龄的82岁朱志忠很少登台演武将，主要手握地戏“核心”战鼓，其珍藏的百年鼓槌木身已被手掌磨得光滑温润。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src_01",
+        "title": "白发授戏 稚子登台——看平坝中山村屯堡地戏传承",
+        "url": "https://www.anshun.gov.cn/xwzx/asyw/202607/t20260706_90587750.html",
+        "publisher": "安顺市人民政府（转载安顺日报）",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "代关堡古称待官堡，是明代“调北征南”屯军驿站，清代中期开始便以宗族口传心授方式世代演绎杨家将剧目《三下河东》。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_02",
+        "title": "屯堡非遗进景区点亮塘约夜生活",
+        "url": "http://gz.people.com.cn/n2/2026/0921/c387245-41703742.html",
+        "publisher": "人民网贵州频道",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "鼓楼街道代关堡地戏队教练夏兴胜说：“很高兴能来到塘约景区表演屯堡地戏，地戏是老祖宗传下来的非遗。”",
+        "media": { "type": "none" }
+      }
+    ],
+    "traceability": "A",
+    "notes": "本条细节（82岁鼓手、百年鼓槌、3岁跟唱幼童、20面清代老面具、夏天富点名杨六郎与孟怀元）全部出自安顺市政府门户转载的《安顺日报》原文，属单一 A 级来源，未见第二家媒体独立复述，建议人工回访核实人物年龄与面具数量。",
+    "tags": ["地戏", "杨家将", "平坝", "传习馆", "四代传承"],
+    "related_entry_ids": ["anshun-gujiashun-dixi-class", "anshun-dixi-mask-five-colors", "anshun-jichangtun-dixi"],
+    "narrative": {
+      "hook": "白发授戏，稚子登台",
+      "scene": "传习馆屋内，白发长者端坐授戏，两名孩童踮脚模仿身段、跟唱念白；墙边整齐陈列刀枪道具，老面具照片挂满墙面。73岁的夏天富捧起脸谱逐一点名，6岁的何远超与3岁的刘宗浩睁圆眼睛跟着复述人物名号。"
+    }
+  },
+  {
+    "entry_id": "anshun-gujiashun-dixi-class",
+    "entry_no": "A2",
+    "entry_type": "person",
+    "title": "顾家顺与九溪少儿地戏班",
+    "subtitle": "省级传承人把地戏带进课堂与商演",
+    "category": ["地戏", "非遗传承人", "少儿传承"],
+    "region": "安顺市西秀区大西桥镇",
+    "coordinates": { "lat": 26.31, "lng": 106.12 },
+    "chapter_index": 0,
+    "scroll_anchor": "",
+    "hero_media": { "type": "none", "url": "", "fallback_url": "", "credit": "", "license": "" },
+    "summary": "顾家顺是贵州安顺地戏省级非遗代表性传承人，10岁起跟随祖父、国家级非遗代表性传承人顾之炎学艺，有30年练习与表演经历。2013年祖父去世后，他在家乡安顺市九溪村开办少儿地戏兴趣班，让孩子利用课外时间学戏，并引入“竞争制”，只有跳得好的小孩才能在演出中扮演关羽这类重要角色。2016年他组建安顺大屯堡地戏演艺团，2024年辞去工作，全身心投入地戏传承。",
+    "claims": [
+      {
+        "text": "顾家顺是贵州安顺地戏省级非遗代表性传承人，10岁起跟随祖父顾之炎学艺，有30年练习与表演经历。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "顾家顺的祖父顾之炎是安顺地戏国家级非遗代表性传承人，于2013年去世。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "2013年后，顾家顺在安顺市九溪村开办少儿地戏兴趣班，并引入“竞争制”，只有跳得好的小孩才能在演出中扮演关羽这样的重要角色。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "2016年，顾家顺组建安顺大屯堡地戏演艺团，推动安顺地戏接连亮相“村超”、贵州民族团结大巡游等舞台。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "2024年，顾家顺辞去工作，全身心投入地戏，认为“比起上班，地戏传承更有意义”。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "面向商演，他在演出前加入屯堡文化解说，为剧情配置画外音，在传统锣鼓声中融入战场嘶吼与马蹄声效，并精简内容、缩短时长。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src_01",
+        "title": "一招一式 演绎历史故事（工匠绝活）",
+        "url": "http://paper.people.com.cn/rmrb/pc/content/202507/21/content_30089085.html",
+        "publisher": "人民日报",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "2013年，顾之炎去世。为了把祖父热爱的地戏传承下去，顾家顺在家乡安顺市九溪村开办少儿地戏兴趣班。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_02",
+        "title": "到贵州 看屯堡文化村落",
+        "url": "http://xinhuanet.com/ci/20251112/d29a687b036a49bd8befc41e8de82a37/c.html",
+        "publisher": "新华网（转载人民日报海外版）",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "地戏讲述的都是历史上金戈铁马、保家卫国的故事，强调“忠义仁勇”，颂扬忠臣良将。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_03",
+        "title": "老戏种的守望与传承——探访屯堡地戏传承人顾家顺",
+        "url": "https://m.thepaper.cn/baijiahao_25553334",
+        "publisher": "澎湃新闻",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "2013年爷爷去世后，为了完成爷爷的遗愿，顾家顺接下“地戏进校园”的工作，并发动两个朋友一起在九溪村开办少儿地戏班。",
+        "media": { "type": "none" }
+      }
+    ],
+    "traceability": "A",
+    "notes": "核心事实来自《人民日报》2025年7月21日第06版人物特写，另有新华网与澎湃新闻两处报道可交叉印证少儿班与2013年时间点。商演改动的具体做法属当事人自述，无第三方评估，两者并列不合并。",
+    "tags": ["地戏", "顾家顺", "九溪村", "少儿传承", "非遗传承人"],
+    "related_entry_ids": ["anshun-daiguangbao-dixi", "anshun-dixi-only-generals", "anshun-yunshantun"],
+    "narrative": {
+      "hook": "每个孩子心中都有一个英雄",
+      "scene": "安顺武庙的石柱与牌坊之间，高亢唱腔穿透石墙：“离乡背井豪情壮，忠君爱国守边关”。面具遮住脸，人物情感全凭唱腔和肢体展现。九溪村的课外时间里，孩子们为争一个关羽的角色反复练同一个招式。"
+    }
+  },
+  {
+    "entry_id": "anshun-dixi-mask-five-colors",
+    "entry_no": "A3",
+    "entry_type": "thematic",
+    "title": "地戏面具“五色相”",
+    "subtitle": "丁木杨木上的文武老少女五类脸谱",
+    "category": ["地戏", "面具", "木雕"],
+    "region": "安顺市西秀区",
+    "coordinates": { "lat": 26.25, "lng": 106.15 },
+    "chapter_index": 0,
+    "scroll_anchor": "",
+    "hero_media": { "type": "none", "url": "", "fallback_url": "", "credit": "", "license": "" },
+    "summary": "安顺地戏角色主要通过面具（俗称“脸子”）区分。面具多以丁木或杨木刻制，注重将写实与夸张相结合，大致分为文将、武将、少将、老将、女将5种脸谱，称为“五色相”。此外还有道人、小军、土地、麻和尚等杂色。面具雕刻有特定规矩，如眉毛讲究“女将一根线，少将一支箭，武将如烈焰”，眼睛讲究“男将豹眼圆睁，女将凤眼微闭”。",
+    "claims": [
+      {
+        "text": "安顺地戏的角色主要通过面具（俗称“脸子”）区分，面具多以丁木或杨木刻制，注重将写实与夸张相结合。",
+        "source_ids": ["src_01", "src_02"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "雕刻的面具大致可分为文将、武将、少将、老将、女将5种脸谱，称为“五色相”。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "地戏角色除五色相外，还有道人、小军、土地、麻和尚等杂色，面具类型并不止于五类。",
+        "source_ids": ["src_03"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "面具雕刻有特定规矩，如眉毛“女将一根线，少将一支箭，武将如烈焰”，眼睛“男将豹眼圆睁，女将凤眼微闭”。",
+        "source_ids": ["src_03"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "地戏演出时，演员头顶“脸子”，面罩青纱，背插靠旗，手执兵器，在露天平地上表演。",
+        "source_ids": ["src_03", "src_02"],
+        "variant": "事实",
+        "confidence": "direct"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src_01",
+        "title": "安顺木雕省级传承人周明与他的非遗地戏“脸子”",
+        "url": "https://www.chinanews.com.cn/sh/shipin/cns/2024/12-12/news1007603.shtml",
+        "publisher": "中国新闻网",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "雕刻的面具大致可分为文将、武将、少将、老将、女将5种脸谱，称为“五色相”。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_02",
+        "title": "安顺木雕省级传承人周明与他的非遗地戏“脸子”",
+        "url": "https://www.hwjyw.com/qwarticle/387631.html",
+        "publisher": "中国华文教育网",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "丁木或杨木刻制，注重将写实与夸张相结合，每个面具形神兼备，韵味无穷。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_03",
+        "title": "安顺地戏",
+        "url": "https://baike.baidu.com/item/%E5%AE%89%E9%A1%BA%E5%9C%B0%E6%88%8F/19823365",
+        "publisher": "百度百科",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "安顺地戏的角色主要通过面具（“脸子”）区分，主要类型有“五色相”：文将、武将、老将、少将、女将。",
+        "media": { "type": "none" }
+      }
+    ],
+    "traceability": "A/B",
+    "notes": "“五色相”五类划分与丁木、杨木取材有中新网与华文教育网两条来源支撑；杂色名目与眉、眼雕刻口诀仅见于百科，属 C 级，需人工向安顺木雕传承人复核。五类与杂色并列不合并，不判断哪一套更完整。",
+    "tags": ["地戏", "面具", "脸子", "木雕", "五色相"],
+    "related_entry_ids": ["anshun-daiguangbao-dixi", "anshun-dixi-only-generals", "anshun-gujiashun-dixi-class"],
+    "narrative": {
+      "hook": "一张脸，就是一个人物",
+      "scene": "刻刀顺着丁木的纹理走，先定眉眼，再起嘴角。女将的眉是一根线，少将的眉像一支箭，武将的眉要如烈焰。面具雕成，配青纱与靠旗，演员把它顶在额前，人物便从木头上站起来了。"
+    }
+  },
+  {
+    "entry_id": "anshun-dixi-only-generals",
+    "entry_no": "A4",
+    "entry_type": "thematic",
+    "title": "地戏“为何只有将”",
+    "subtitle": "不按生旦净末丑分行当的征战戏",
+    "category": ["地戏", "戏曲形制", "屯堡"],
+    "region": "安顺市",
+    "coordinates": { "lat": 26.25, "lng": 105.95 },
+    "chapter_index": 0,
+    "scroll_anchor": "",
+    "hero_media": { "type": "none", "url": "", "fallback_url": "", "credit": "", "license": "" },
+    "summary": "地戏的主要表演形式是唱和舞，唱为无乐器伴奏的说唱，不分行当，只有男女角色之分，没有男女声腔之分。所演三十来部大书皆为薛家将、杨家将、岳家将、狄家将、三国英雄、瓦岗好汉等征战故事，没有才子佳人戏、清官公案戏、绿林反叛戏与怪诞神话剧。角色区分依托面具而非行当，面具以文将、武将、少将、老将、女将五类划分。",
+    "claims": [
+      {
+        "text": "地戏的主要表演形式是唱和舞，唱是无乐器伴奏的说唱，不分行当，只有男女角色之分，没有男女声腔之分。",
+        "source_ids": ["src_01", "src_02"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "地戏所演三十来部大书，是屯堡人喜爱的薛家将、杨家将、岳家将、狄家将、三国英雄、瓦岗好汉等征战故事。",
+        "source_ids": ["src_01", "src_02"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "地戏内容单一，没有才子佳人戏、清官公案戏、绿林反叛戏、怪诞神话剧，只有赞美忠义、颂扬报国的忠臣良将戏。",
+        "source_ids": ["src_01", "src_02"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "《续修安顺府志》载“借以演习武事，不使生疏，含有寓兵于农之深意”，这是地戏只演武戏、不演文戏的由来。",
+        "source_ids": ["src_01"],
+        "variant": "文献记载",
+        "confidence": "secondary"
+      },
+      {
+        "text": "地戏角色区分依托面具而非行当，面具以文将、武将、少将、老将、女将五类划分，另有道人、小军等杂色。",
+        "source_ids": ["src_03"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "地戏讲述的都是历史上金戈铁马、保家卫国的故事，强调“忠义仁勇”，颂扬忠臣良将。",
+        "source_ids": ["src_04"],
+        "variant": "事实",
+        "confidence": "direct"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src_01",
+        "title": "安顺地戏 俗称“屯堡跳神”",
+        "url": "https://www.zgnuoxi.com/baike/view_1433.html",
+        "publisher": "中国傩戏网",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "唱，是无乐器伴奏的说唱，不分行当，只有男女角色之分，没有男女声腔之分。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_02",
+        "title": "地戏",
+        "url": "https://zh.wikipedia.org/zh-hans/%E5%9C%B0%E6%88%8F",
+        "publisher": "维基百科",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "其唱法不分行当，有男女角，但没有男女腔之分。其舞，以“打”为主，即表现戏中的打斗。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_03",
+        "title": "安顺地戏",
+        "url": "https://baike.baidu.com/item/%E5%AE%89%E9%A1%BA%E5%9C%B0%E6%88%8F/19823365",
+        "publisher": "百度百科",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "主要类型有“五色相”：文将、武将、老将、少将、女将，此外还有道人、小军、土地、麻和尚等杂色。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_04",
+        "title": "到贵州 看屯堡文化村落",
+        "url": "http://xinhuanet.com/ci/20251112/d29a687b036a49bd8befc41e8de82a37/c.html",
+        "publisher": "新华网（转载人民日报海外版）",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "地戏讲述的都是历史上金戈铁马、保家卫国的故事，强调“忠义仁勇”，颂扬忠臣良将。",
+        "media": { "type": "none" }
+      }
+    ],
+    "traceability": "B",
+    "notes": "“只演武戏不演文戏”有新华网 A 级来源支撑，但“不分行当、没有生旦净末丑”一说主要见于维基、百度百科与中国傩戏网三家 C 级来源，彼此措辞相近，疑同源。两种表述并列呈现，不合并，建议向安顺市非遗保护机构核对行当术语。",
+    "tags": ["地戏", "行当", "武戏", "军傩", "寓兵于农"],
+    "related_entry_ids": ["anshun-dixi-mask-five-colors", "anshun-gujiashun-dixi-class", "anshun-daiguangbao-dixi"],
+    "narrative": {
+      "hook": "这台戏里没有才子佳人",
+      "scene": "锣鼓一响，黑纱罩头，木刻脸子顶在额前，靠旗在背后张开。唱词不按行当分腔，一个人从头唱到尾；动作全是格斗与对阵。三十来部大书，从头到尾只有金戈铁马，没有一段儿女情长。"
+    }
+  },
+  {
+    "entry_id": "anshun-yunshantun",
+    "entry_no": "A5",
+    "entry_type": "place",
+    "title": "云山屯",
+    "subtitle": "云峰八寨核心的石头商屯与军屯",
+    "category": ["屯堡", "传统村落", "石头建筑"],
+    "region": "安顺市西秀区七眼桥镇",
+    "coordinates": { "lat": 26.28, "lng": 106.03 },
+    "chapter_index": 0,
+    "scroll_anchor": "",
+    "hero_media": { "type": "none", "url": "", "fallback_url": "", "credit": "", "license": "" },
+    "summary": "云山屯位于安顺市西秀区七眼桥镇，始建于明洪武十四年（1381年），是“云峰八寨”的核心村寨，与相邻的本寨合称云山屯古建筑群，为全国重点文物保护单位。村寨以石木结构为主，屯门用巨石垒砌，寨墙设炮眼与垛口。江淮子弟在此扎根戍边，军屯与商屯并存。2000年，大世界吉尼斯之最将云峰屯堡认定为“最大的、最完整的明初屯堡文化村群落”。",
+    "claims": [
+      {
+        "text": "云山屯位于安顺市西秀区七眼桥镇，始建于明洪武十四年（1381年），是保存最完好的屯堡文化村寨之一，也是“云峰八寨”的核心。",
+        "source_ids": ["src_01", "src_02"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "云山屯与相邻的本寨合称云山屯古建筑群，为全国重点文物保护单位。",
+        "source_ids": ["src_02", "src_04"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "云山屯前屯门又称大屯门，用巨石垒砌，两旁寨墙高约7至8米、厚约1.5至2米，全长约1000米，上面有炮眼和垛口。",
+        "source_ids": ["src_03"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "江淮子弟在此扎根戍边，云峰屯堡一带军屯与商屯并存，守疆与商贸并举。",
+        "source_ids": ["src_04"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "2000年，大世界吉尼斯之最将云峰屯堡认定为“最大的、最完整的明初屯堡文化村群落”。",
+        "source_ids": ["src_04", "src_03"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "十多年来，已有来自中国、法国、希腊、澳大利亚和德国等国家的295名志愿者参加屯堡工作营，参与云山屯传统建筑修缮。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src_01",
+        "title": "守护古老屯堡：中法遗产保护者携手同行",
+        "url": "https://www.news.cn/world/20260910/7801490677f548ce8b0ff2e317454953/c.html",
+        "publisher": "新华网",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "十多年来，已有来自中国、法国、希腊、澳大利亚和德国等国家的295名志愿者参加屯堡工作营项目。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_02",
+        "title": "新华视点丨走进贵州安顺屯堡 探寻绵延六百年的古风遗韵",
+        "url": "https://www.news.cn/politics/2023-12/12/c_1130021853.htm",
+        "publisher": "新华社",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "云峰屯堡本寨村就是其中典型代表之一，因较完整地保存了典型的屯堡建筑和民风民俗，被列为全国重点文物保护单位。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_03",
+        "title": "云山村",
+        "url": "https://gzstv.com/a/e62c75c08a384e14bb1bac6f5d1beafd",
+        "publisher": "贵州广播电视台",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "前屯门也称为“大屯门”，是用巨石垒砌而成，两旁的寨墙高大约7-8米，厚约1.5-2米，寨墙全长1000米左右。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_04",
+        "title": "贵州“村”游指南｜走，去安顺云峰屯堡，看“冷兵器时代的最后堡垒”",
+        "url": "https://gz.cri.cn/n/20260326/b3afa6f1-ba0d-db60-e15b-76ee18f44517.html",
+        "publisher": "国际在线",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "军屯与商屯并存，守疆与商贸并举。2000年，大世界吉尼斯之最将它认定为“最大的、最完整的明初屯堡文化村群落”。",
+        "media": { "type": "none" }
+      }
+    ],
+    "traceability": "A",
+    "notes": "建筑尺寸与吉尼斯认定两条来自国际在线与贵州广播电视台，措辞与早期景区解说词高度一致，属转述性质。任务清单提到的“洗布河”未能在任何可引用来源中找到与云山屯的对应关系，故本条未写入该地名，需人工实地核对。",
+    "tags": ["云山屯", "云峰八寨", "石头建筑", "商屯", "传统村落"],
+    "related_entry_ids": ["anshun-tianlong-tunpu", "anshun-baojiatun", "anshun-daiguangbao-dixi"],
+    "narrative": {
+      "hook": "一户民宅就是一座石头城堡",
+      "scene": "屯门用巨石垒起，两旁寨墙高七八米，炮眼与垛口一字排开。穿过屯门是一条随山势起伏的古街，前半段是明朝石墙，中间是清朝木楼，最后一段是民国洋房。石片当瓦，石墙当户，巷巷相通。"
+    }
+  },
+  {
+    "entry_id": "anshun-tianlong-tunpu",
+    "entry_no": "A6",
+    "entry_type": "place",
+    "title": "天龙屯堡",
+    "subtitle": "滇黔古道驿站上的演武堂与驿茶",
+    "category": ["屯堡", "地戏", "驿站"],
+    "region": "安顺市平坝区天龙镇",
+    "coordinates": { "lat": 26.36, "lng": 106.21 },
+    "chapter_index": 0,
+    "scroll_anchor": "",
+    "hero_media": { "type": "none", "url": "", "fallback_url": "", "credit": "", "license": "" },
+    "summary": "天龙屯堡位于安顺市平坝区，地处西进云南的咽喉，元代即为顺元古驿道上的重要驿站“饭笼驿”，明初在此设驿屯兵后逐渐成村。村内演武堂是地戏表演场所，一段完整地戏通常约2小时，为便于游客观看被精简到十来分钟。天龙村于2001年被开发为旅游景区，核心是传统民居建筑较为集中的天龙屯堡古镇。民居以石块垒墙、石片盖瓦，并沿袭江南四合院布局。",
+    "claims": [
+      {
+        "text": "天龙屯堡位于安顺市平坝区，地处西进云南的咽喉之地，在元代就是顺元古驿道上的重要驿站，名“饭笼驿”。",
+        "source_ids": ["src_03"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "当年明朝大军在平坝区天台山一带设驿屯兵，这座驿站逐渐成为今日的天龙屯堡。",
+        "source_ids": ["src_02"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "古镇内有一座演武堂，是地戏的表演场所；一段完整的地戏通常2个小时左右，为便于游客观看被精简到了十来分钟。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "天龙村于2001年被开发为旅游景区，其核心是传统民居建筑较为集中的天龙屯堡古镇。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "驻足天龙屯堡城垣之下，听屯堡大嬢嬢唱山歌，再喝上一碗秘制驿茶，是当地常见的待客方式。",
+        "source_ids": ["src_03"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "天龙屯堡民居的石墙用山上石头垒成，屋顶用石片当瓦，建筑布局与江南四合院相似。",
+        "source_ids": ["src_03"],
+        "variant": "事实",
+        "confidence": "direct"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src_01",
+        "title": "到贵州 看屯堡文化村落",
+        "url": "http://xinhuanet.com/ci/20251112/d29a687b036a49bd8befc41e8de82a37/c.html",
+        "publisher": "新华网（转载人民日报海外版）",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "一段完整的地戏通常2个小时左右，为了便于游客观看，演武堂上演的地戏被精简到了十来分钟。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_02",
+        "title": "新华视点丨走进贵州安顺屯堡 探寻绵延六百年的古风遗韵",
+        "url": "https://www.news.cn/politics/2023-12/12/c_1130021853.htm",
+        "publisher": "新华社",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "当年，明朝大军在此处设驿屯兵，这座驿站逐渐成为今日的天龙屯堡。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_03",
+        "title": "安顺屯堡保留六百年前大明生活，打破古镇千篇一律怪圈",
+        "url": "http://gz.news.cn/20240725/d3c4968e3ca046acb0e045d67352feda/c.html",
+        "publisher": "新华网贵州频道（转载澎湃新闻）",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "驻足于天龙屯堡古朴的城垣之下，听一首屯堡大嬢嬢唱的山歌，再喝上一碗秘制驿茶，仿佛已置身于600年前的明朝时光。",
+        "media": { "type": "none" }
+      }
+    ],
+    "traceability": "A",
+    "notes": "演武堂、地戏时长压缩与2001年开发为景区三条出自新华网转载的人民日报海外版稿件；“饭笼驿”“驿茶”见新华网贵州频道转载澎湃稿件。“驿茶”为当地说法，未查到更早文献，需人工核对是否与“大碗茶”同指一物。",
+    "tags": ["天龙屯堡", "演武堂", "驿茶", "饭笼驿", "平坝"],
+    "related_entry_ids": ["anshun-yunshantun", "anshun-daiguangbao-dixi", "anshun-jichangtun-dixi"],
+    "narrative": {
+      "hook": "一段戏，从两小时压到十分钟",
+      "scene": "演武堂的平地舞台上锣鼓声起，演员身着戏装、背插彩旗，脸戴白、红、黑各色面具，青纱遮容，手持兵器。为了配合游客的脚步，完整的两小时大戏被压到十来分钟，只留下武术动作与唱腔。"
+    }
+  },
+  {
+    "entry_id": "anshun-jichangtun-dixi",
+    "entry_no": "A7",
+    "entry_type": "place",
+    "title": "吉昌屯地戏",
+    "subtitle": "汪公殿前的一场三英战吕布",
+    "category": ["地戏", "屯堡", "民俗"],
+    "region": "安顺市西秀区大西桥镇",
+    "coordinates": { "lat": 26.32, "lng": 106.14 },
+    "chapter_index": 0,
+    "scroll_anchor": "",
+    "hero_media": { "type": "none", "url": "", "fallback_url": "", "credit": "", "license": "" },
+    "summary": "吉昌屯位于安顺市西秀区大西桥镇。村内汪公殿前的空地上，几位头罩黑纱、额顶木雕面具的表演者，身穿绸缎战裙、背插帅旗，随着弋阳腔唱词演出《三英战吕布》。市级传承人胡德全介绍，地戏源于明朝军队中的“军傩”，最初是屯军用来振奋军威、出征祭祀的仪式；地戏唱腔是江西一带的弋阳高腔，表演时仅以锣鼓伴奏。",
+    "claims": [
+      {
+        "text": "吉昌屯位于安顺市西秀区大西桥镇，村内汪公殿前的空地上常演地戏《三英战吕布》。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "国家级非物质文化遗产代表性项目安顺地戏市级传承人胡德全介绍，地戏源于明朝军队中的“军傩”，最初是屯军用来振奋军威、出征祭祀的仪式。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "地戏的唱腔是江西一带的弋阳高腔，表演时仅以锣鼓伴奏，动作则模拟古代战争的格斗场面。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "胡德全从8岁便开始学地戏，其带领的地戏团队已发展到40余人，其中最小的成员年仅10岁。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "每年正月十八举行的“抬汪公”是吉昌屯村的年度盛事，已有600多年历史，2014年被列入国家级非物质文化遗产扩展项目名录。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "地戏是“抬汪公”庙会的重要组成部分，巡游队伍中地戏队常为神轿开路。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src_01",
+        "title": "屯堡文化调研采风活动｜走进吉昌屯 感受屯堡人600年的家国记忆与乡愁坚守",
+        "url": "https://www.sohu.com/a/951729358_121106687",
+        "publisher": "天眼新闻（贵州日报）",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "11月6日，锣鼓声响，安顺市西秀区大西桥镇吉昌屯村汪公殿内的空地上，一场《三英战吕布》的地戏正酣。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_02",
+        "title": "多彩贵州·民俗之魅丨那些奇特又好玩的春节习俗",
+        "url": "https://gz.cri.cn/2024-12-13/6b30cbee-10c3-3994-748e-beffa410d491.html",
+        "publisher": "国际在线",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "屯堡“抬亭子”又名“抬汪公”，是安顺一带屯堡人的过年习俗，在屯堡已经沿袭了600余年。",
+        "media": { "type": "none" }
+      }
+    ],
+    "traceability": "B",
+    "notes": "现场描写、胡德全个人经历与团队规模均出自《贵州日报》天眼新闻一篇稿件，无第二家媒体独立采访同一人；“抬汪公”600余年一说有国际在线旁证，但“2014年列入国家级非遗扩展名录”仅见于该稿，需人工核对名录批次。",
+    "tags": ["吉昌屯", "地戏", "三英战吕布", "抬汪公", "弋阳腔"],
+    "related_entry_ids": ["anshun-daiguangbao-dixi", "anshun-yunshantun", "anshun-baojiatun"],
+    "narrative": {
+      "hook": "锣鼓声里，神轿起行",
+      "scene": "汪公殿前的空地，几位表演者头罩黑纱、额顶木雕面具，身穿绸缎战裙，背插帅旗。弋阳腔唱词高亢，锣鼓是唯一的伴奏，动作模拟古战场的格斗。正月十八巡游时，这支队伍走在神轿最前面开路。"
+    }
+  },
+  {
+    "entry_id": "anshun-baojiatun",
+    "entry_no": "A8",
+    "entry_type": "place",
+    "title": "鲍家屯",
+    "subtitle": "沿用六百年的明代屯堡水利系统",
+    "category": ["屯堡", "水利工程", "传统村落"],
+    "region": "安顺市西秀区大西桥镇",
+    "coordinates": { "lat": 26.33, "lng": 106.13 },
+    "chapter_index": 0,
+    "scroll_anchor": "",
+    "hero_media": { "type": "none", "url": "", "fallback_url": "", "credit": "", "license": "" },
+    "summary": "鲍家屯位于安顺市西秀区大西桥镇，是一座典型的屯堡村寨，至今已有600多年历史，传统建筑风貌保存完整，且仍沿用着明代修建的古水利工程。该工程始建于明洪武年间，为引蓄结合的塘坝式水利工程体系，采用“鱼嘴分流”把上游河道一分为二，形成“两河绕田坝”态势，使村落周边不同高程近3000亩田地得到自流灌溉。",
+    "claims": [
+      {
+        "text": "鲍家屯位于安顺市西秀区大西桥镇，是一座典型的屯堡村寨，至今已有600多年历史，传统建筑风貌保存完整。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "鲍家屯沿用着明代修建的古水利工程，一套鱼嘴分流式的灌溉系统历经600余年，仍滋养着千亩良田。",
+        "source_ids": ["src_01", "src_02"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "鲍家屯水利工程始建于明洪武年间，是引蓄结合的塘坝式水利工程体系，原理与都江堰相似，被称为“袖珍都江堰”。",
+        "source_ids": ["src_03"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "工程由横坝、顺坝和高低龙口组成，采用“鱼嘴分流”把上游河道一分为二，形成“两河绕田坝”，使近3000亩田地自流灌溉。",
+        "source_ids": ["src_03"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "鲍家屯水利工程现存驿马坝、小坝、大青山坝、广前坝、小青山坝、回龙坝、新河坝7座坝与5条主渠道，至今仍在使用。",
+        "source_ids": ["src_03", "src_04"],
+        "variant": "事实",
+        "confidence": "direct"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src_01",
+        "title": "穿越鲍家屯，探寻600年的屯堡人家",
+        "url": "https://www.gz.news.cn/20240708/20df11f7753f4ba8a49395bbd6fcc166/c.html",
+        "publisher": "新华网贵州频道",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "安顺市西秀区鲍家屯是一座典型的屯堡村寨，至今已有600多年的历史，而且还沿用着明代修建的古水利工程。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_02",
+        "title": "六百年屯堡 续古韵新章（推进文化自信自强）",
+        "url": "https://paper.people.com.cn/rmrb/pc/content/202511/12/content_3011442.html",
+        "publisher": "人民日报",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "贵州安顺市西秀区的鲍家屯内，一套鱼嘴分流式的灌溉系统，历经600余年，仍滋养着千亩良田。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_03",
+        "title": "鲍家屯水利工程",
+        "url": "https://baike.baidu.com/item/%E9%B2%8D%E5%AE%B6%E5%B1%AF%E6%B0%B4%E5%88%A9%E5%B7%A5%E7%A8%8B/61964728",
+        "publisher": "百度百科",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "采用“鱼嘴分流”的方式，把上游河道一分为二，形成“两河绕田坝”态势，使村落周边不同高程近3000亩田地都能得到自流灌溉。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_04",
+        "title": "藏在黔中深山的古水利：鲍家屯探访",
+        "url": "https://feng.ifeng.com/c/8xP3Gt12d16",
+        "publisher": "凤凰网大风号",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "六七月雨水充沛的时候，就把高低龙口打开，一部分水顺着老河道走，用来泄洪；等到春耕用水季节，就把老河的龙口堵起来。",
+        "media": { "type": "none" }
+      }
+    ],
+    "traceability": "A",
+    "notes": "村落年代与“沿用明代水利”有新华网、人民日报两条 A 级来源；坝数、渠道数与“袖珍都江堰”提法只见于百科与自媒体，属 C 级转述，与 A 级来源并列不合并。灌溉亩数建议向鲍家屯村委复核。",
+    "tags": ["鲍家屯", "水利工程", "鱼嘴分流", "屯堡", "西秀区"],
+    "related_entry_ids": ["anshun-yunshantun", "anshun-jichangtun-dixi", "anshun-tianlong-tunpu"],
+    "narrative": {
+      "hook": "一道坝，一条沟，一片田",
+      "scene": "河水在鱼嘴处一分为二，老河道走汛期的洪水，人工新河把水送进田里。六七月打开高低龙口泄洪，春耕时堵上老河龙口，水便全部流进新河。石坝、水碾房与石桥，至今还在原地工作。"
+    }
+  },
+  {
+    "entry_id": "anshun-huangguoshu-marathon",
+    "entry_no": "A9",
+    "entry_type": "event",
+    "title": "黄果树马拉松",
+    "subtitle": "半马终点设在黄果树大瀑布景区内",
+    "category": ["马拉松", "体育赛事", "镇宁"],
+    "region": "安顺市镇宁自治县",
+    "coordinates": { "lat": 26.06, "lng": 105.77 },
+    "chapter_index": 0,
+    "scroll_anchor": "",
+    "hero_media": { "type": "none", "url": "", "fallback_url": "", "credit": "", "license": "" },
+    "summary": "贵州·镇宁黄果树半程马拉松由贵州省体育局、安顺市人民政府主办，2025年赛事于6月29日在镇宁自治县举行。赛事设半程马拉松、13.14公里、迷你跑3个组别，半马终点设置在国家5A级旅游景区黄果树大瀑布。2025年赛事报名人数达31712人，创历史新高，最终通过抽签确定11624名参赛选手。赛道经G320国道镇宁至黄果树段与黄果树迎宾大道，并进入黄果树景区内部路。",
+    "claims": [
+      {
+        "text": "贵州·镇宁黄果树半程马拉松由贵州省体育局、安顺市人民政府主办，2025年赛事定于6月29日在镇宁自治县举行。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "2025年赛事设半程马拉松（21.0975公里）、13.14公里、迷你跑3个组别，半马终点设置在国家5A级旅游景区黄果树大瀑布。",
+        "source_ids": ["src_02"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "2025年赛事报名人数达31712人，创历史新高，最终通过抽签确定11624名参赛选手，另邀请国际精英标牌选手11人参赛。",
+        "source_ids": ["src_02"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "赛道经G320国道（贵黄公路）镇宁至黄果树段、黄果树迎宾大道，并进入黄果树景区内部路至陡坡塘停车场。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "贵州镇宁黄果树半程马拉松首次创办于2006年，是贵州省内历史最悠久的马拉松赛事。",
+        "source_ids": ["src_03"],
+        "variant": "事实",
+        "confidence": "secondary"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src_01",
+        "title": "2025贵州·镇宁黄果树半程马拉松 交通管制通告",
+        "url": "https://www.gzzn.gov.cn/gk/zdlyxx/jtys/202506/t20250620_88168330.html",
+        "publisher": "镇宁自治县人民政府",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "将对G320国道（贵黄公路）镇宁至黄果树段及其合围区域以内道路实施临时性交通管制措施。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_02",
+        "title": "2025贵州·镇宁黄果树半程马拉松鸣枪开跑",
+        "url": "https://news.ifeng.com/c/8kZs7TtClGY",
+        "publisher": "中国新闻网（凤凰网转载）",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "设半程马拉松、13.14公里、迷你跑3个组别，半马终点设置在国家5A级旅游景区黄果树大瀑布。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_03",
+        "title": "2025贵州・镇宁黄果树半程马拉松",
+        "url": "https://zuicool.com/event/8923120",
+        "publisher": "最酷赛事平台",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "贵州镇宁黄果树半程马拉松，则首次创办于2006年，是贵州省内历史最悠久的马拉松赛事。",
+        "media": { "type": "none" }
+      }
+    ],
+    "traceability": "A/B",
+    "notes": "主办方与赛道范围有镇宁县政府 A 级通告支撑；参赛与报名人数出自中新网稿。创办年份2006与“省内历史最悠久”仅见赛事平台 C 级页面。另有来源给出15000人规模、与本条12000人说法不一致，两者并列不合并，需人工核对官方竞赛规程。",
+    "tags": ["马拉松", "黄果树", "镇宁", "半程马拉松", "5A景区"],
+    "related_entry_ids": ["anshun-marathon", "anshun-race-calendar", "anshun-huangguoshu-falls"],
+    "narrative": {
+      "hook": "终点在国家5A级景区里",
+      "scene": "清晨八点，镇宁自治县政务服务中心前鸣枪。队伍沿贵黄公路向黄果树推进，转入迎宾大道，再进入景区内部路。半程的终点线设在黄果树大瀑布，跑者穿过水雾时，赛道两侧已站满人。"
+    }
+  },
+  {
+    "entry_id": "anshun-marathon",
+    "entry_no": "A10",
+    "entry_type": "event",
+    "title": "安顺马拉松",
+    "subtitle": "2026年新设赛事，起终点在奥体中心",
+    "category": ["马拉松", "体育赛事", "安顺"],
+    "region": "安顺市经济技术开发区",
+    "coordinates": { "lat": 26.22, "lng": 105.94 },
+    "chapter_index": 0,
+    "scroll_anchor": "",
+    "hero_media": { "type": "none", "url": "", "fallback_url": "", "credit": "", "license": "" },
+    "summary": "2026安顺马拉松于2026年5月17日在安顺经开区鸣枪开赛，由安顺市人民政府主办，安顺市文体广电旅游局、安顺经济技术开发区管理委员会、安顺旅游集团有限公司承办。赛事设马拉松、半程马拉松两个项目，总参赛规模1万人，其中马拉松3000人、半程马拉松7000人。起终点均设在安顺市奥体中心，马拉松赛道42.195公里，累计爬升290米。",
+    "claims": [
+      {
+        "text": "2026安顺马拉松于2026年5月17日在安顺经开区鸣枪开赛，由安顺市人民政府主办。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "赛事由安顺市文体广电旅游局、安顺经济技术开发区管理委员会、安顺旅游集团有限公司承办，主题为“最美风景在路上，一路安跑”。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "赛事设马拉松、半程马拉松两个竞赛项目，总参赛规模达1万人，其中马拉松3000人、半程马拉松7000人。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "赛事起终点均设在安顺市奥体中心；马拉松赛道42.195公里，最低海拔1310米，最高海拔1438米，累计爬升290米。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "2026安顺马拉松是安顺全新打造的马拉松赛事，也是当地推动“体育+文旅+城市”融合发展的载体。",
+        "source_ids": ["src_02"],
+        "variant": "事实",
+        "confidence": "secondary"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src_01",
+        "title": "2026安顺马拉松将于5月17日开赛",
+        "url": "http://news.qx162.com/cs/as/2026/0511/407643.shtml",
+        "publisher": "黔讯网（转载安顺市融媒体中心）",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "赛事设置马拉松、半程马拉松两个竞赛项目，总参赛规模达1万人。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_02",
+        "title": "安顺马拉松要来了！时间已定",
+        "url": "https://www.sohu.com/a/997258250_121123793",
+        "publisher": "搜狐",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "作为安顺全新打造的马拉松赛事，2026安顺马拉松，是安顺倾力打造的马拉松赛事。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_03",
+        "title": "Anshun Marathon, 17 May, 2026 (Sun)",
+        "url": "https://ahotu.com/event/anshun-marathon",
+        "publisher": "Ahotu",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "MARATHON 26.1 mi — 17 May, 2026 (Sun).",
+        "media": { "type": "none" }
+      }
+    ],
+    "traceability": "B",
+    "notes": "公开来源有限：赛事日期、规模、路线与海拔数据均出自安顺市融媒体中心一篇稿件及其转载，未检索到赛事官网或中国田协规程原文。任务清单提到的“赛道旁屯堡展示”未在任何可引用来源中出现，故本条未写入该说法，需人工核实。",
+    "tags": ["马拉松", "安顺", "2026", "经开区", "奥体中心"],
+    "related_entry_ids": ["anshun-huangguoshu-marathon", "anshun-race-calendar", "anshun-yunshantun"],
+    "narrative": {
+      "hook": "起点与终点，都在奥体中心",
+      "scene": "五月十七日清晨，安顺市奥体中心前鸣枪。赛道沿黄果树大街、迎宾大道、机场路展开，最低处海拔1310米，最高1438米，累计爬升290米。半程在西航路市委党校折返，再原路回到奥体中心。"
+    }
+  },
+  {
+    "entry_id": "anshun-race-calendar",
+    "entry_no": "A11",
+    "entry_type": "index",
+    "title": "赛事日历",
+    "subtitle": "黄果树半马与安顺马拉松两赛并列",
+    "category": ["马拉松", "赛事索引", "体育旅游"],
+    "region": "安顺市",
+    "coordinates": { "lat": 26.25, "lng": 105.95 },
+    "chapter_index": 0,
+    "scroll_anchor": "",
+    "hero_media": { "type": "none", "url": "", "fallback_url": "", "credit": "", "license": "" },
+    "summary": "安顺境内主要有两场路跑赛事。其一为贵州·镇宁黄果树半程马拉松，由贵州省体育局、安顺市人民政府主办，在镇宁自治县举行，2025年赛期为6月29日，半马终点设在国家5A级景区黄果树大瀑布。其二为安顺马拉松，由安顺市人民政府主办，在安顺经开区举行，2026年赛期为5月17日，起终点均设在安顺市奥体中心，总规模1万人。",
+    "claims": [
+      {
+        "text": "安顺境内主要有两场路跑赛事：贵州·镇宁黄果树半程马拉松与安顺马拉松。",
+        "source_ids": ["src_01", "src_02"],
+        "variant": "事实",
+        "confidence": "inferred"
+      },
+      {
+        "text": "黄果树半马由贵州省体育局、安顺市人民政府主办，在镇宁自治县举行，2025年赛期为6月29日。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "黄果树半马设半程马拉松、13.14公里、迷你跑3个组别，半马终点设置在国家5A级旅游景区黄果树大瀑布。",
+        "source_ids": ["src_04"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "安顺马拉松由安顺市人民政府主办，2026年5月17日在安顺经开区鸣枪，起终点均设在安顺市奥体中心。",
+        "source_ids": ["src_02"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "安顺马拉松设马拉松与半程马拉松两个项目，总参赛规模1万人，其中马拉松3000人、半程马拉松7000人。",
+        "source_ids": ["src_02"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "黄果树半马首次创办于2006年，安顺马拉松则为2026年全新打造的赛事。",
+        "source_ids": ["src_03", "src_05"],
+        "variant": "事实",
+        "confidence": "secondary"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src_01",
+        "title": "2025贵州·镇宁黄果树半程马拉松 交通管制通告",
+        "url": "https://www.gzzn.gov.cn/gk/zdlyxx/jtys/202506/t20250620_88168330.html",
+        "publisher": "镇宁自治县人民政府",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "由贵州省体育局、安顺市人民政府主办，“2025贵州·镇宁黄果树半程马拉松”定于2025年6月29日在镇宁自治县举行。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_02",
+        "title": "2026安顺马拉松将于5月17日开赛",
+        "url": "http://news.qx162.com/cs/as/2026/0511/407643.shtml",
+        "publisher": "黔讯网（转载安顺市融媒体中心）",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "本次赛事起终点均设在安顺市奥体中心。马拉松赛道为42.195公里，最低海拔1310米。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_03",
+        "title": "2025贵州・镇宁黄果树半程马拉松",
+        "url": "https://zuicool.com/event/8923120",
+        "publisher": "最酷赛事平台",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "而贵州镇宁黄果树半程马拉松，则首次创办于2006年，是贵州省内历史最悠久的马拉松赛事。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_04",
+        "title": "2025贵州·镇宁黄果树半程马拉松鸣枪开跑",
+        "url": "https://news.ifeng.com/c/8kZs7TtClGY",
+        "publisher": "中国新闻网（凤凰网转载）",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "设半程马拉松（21.0975km）、13.14公里（13.14km）、迷你跑（5km）3个组别。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_05",
+        "title": "安顺马拉松要来了！时间已定",
+        "url": "https://www.sohu.com/a/997258250_121123793",
+        "publisher": "搜狐",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "作为安顺全新打造的马拉松赛事，2026安顺马拉松，是安顺倾力打造的马拉松赛事。",
+        "media": { "type": "none" }
+      }
+    ],
+    "traceability": "B",
+    "notes": "“两场并列”为编者归纳，非单一来源直接表述，故标为 inferred。两赛创办年份依赖赛事平台与自媒体 C 级页面，公开来源有限；黄果树半马规模另有15000人说法与12000人不一致，本条不取该数字，仅保留1万人的安顺马拉松规模。",
+    "tags": ["赛事日历", "马拉松", "黄果树", "安顺", "索引"],
+    "related_entry_ids": ["anshun-huangguoshu-marathon", "anshun-marathon", "anshun-huangguoshu-falls"],
+    "narrative": {
+      "hook": "一场在景区收尾，一场在城市起跑",
+      "scene": "六月末，队伍从镇宁自治县出发，跑向黄果树大瀑布收尾；五月中，队伍从安顺市奥体中心出发，沿黄果树大街绕回同一座体育场。两场赛事，一条通向水声，一条留在城里。"
+    }
+  },
+  {
+    "entry_id": "anshun-huangguoshu-falls",
+    "entry_no": "A12",
+    "entry_type": "place",
+    "title": "黄果树瀑布",
+    "subtitle": "喀斯特侵蚀裂点型瀑布与水帘洞",
+    "category": ["喀斯特", "瀑布", "自然遗产"],
+    "region": "安顺市镇宁自治县",
+    "coordinates": { "lat": 25.99, "lng": 105.67 },
+    "chapter_index": 0,
+    "scroll_anchor": "",
+    "hero_media": { "type": "none", "url": "", "fallback_url": "", "credit": "", "license": "" },
+    "summary": "黄果树瀑布位于安顺市镇宁布依族苗族自治县，高77.8米、宽101.0米，是中国最大的瀑布。瀑布属喀斯特地貌中的侵蚀裂点型瀑布。大瀑布半腰有水帘洞，长134米，有6个洞窗、5个洞厅、3股洞泉和6段通道，可从洞内向外观瀑。以它为核心的河段上共形成18个风格各异的瀑布，1999年被大世界基尼斯总部评为世界上最大的瀑布群。",
+    "claims": [
+      {
+        "text": "黄果树瀑布位于安顺市镇宁布依族苗族自治县，瀑布高77.8米、宽101.0米，是中国最大的瀑布。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "黄果树瀑布属喀斯特地貌中的侵蚀裂点型瀑布，成因可上溯至2亿多年前的中三叠纪。",
+        "source_ids": ["src_01", "src_02"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "水帘洞位于黄果树瀑布身后，长134米，有6个洞窗、5个洞厅、3股洞泉和6段通道，游人可以从前、后、左、右、上、下六个方向观赏大瀑布。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "以黄果树瀑布为核心，在上游和下游20千米的河段上共形成风格各异的瀑布18个，1999年被大世界基尼斯总部评为世界上最大的瀑布群。",
+        "source_ids": ["src_01", "src_02"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "公元1637年，徐霞客游历贵州途经黄果树瀑布并留下描述，此后黄果树渐被视为全国第一瀑布。",
+        "source_ids": ["src_03"],
+        "variant": "纪年并置",
+        "confidence": "secondary"
+      },
+      {
+        "text": "公元1638年4月23日，明代地理学家、旅行家徐霞客来到这里，描述这雄美壮观的瀑布之后，黄果树一举闻名于世。",
+        "source_ids": ["src_02"],
+        "variant": "纪年并置",
+        "confidence": "secondary"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src_01",
+        "title": "安顺市黄果树大瀑布景区",
+        "url": "http://travel.people.com.cn/n1/2018/1220/c41570-30479259.html",
+        "publisher": "人民网旅游",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "瀑布高度为77.8米，其中主瀑高67米，瀑布宽101米，其中主瀑顶宽83.3米。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_02",
+        "title": "关于黄果树瀑布，鲜为人知的另一面",
+        "url": "https://cn.chinadaily.com.cn/a/202304/03/WS642a7d47a3102ada8b236939.html",
+        "publisher": "中国日报网",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "黄果树瀑布属喀斯特地貌中的侵蚀裂典型瀑布。它的成因要上溯至2亿多年前的中三叠纪。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_03",
+        "title": "走进安顺市黄果树瀑布景区（贵州）",
+        "url": "http://jilu.china.com.cn/2024-09/19/content_42919263.htm",
+        "publisher": "中国网",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "公元1637年，徐霞客游历贵州，途经黄果树瀑布时，曾对黄果树瀑布作出了这样的描述。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_04",
+        "title": "黄果树瀑布",
+        "url": "https://zh.wikipedia.org/zh-hans/%E9%BB%84%E6%9E%9C%E6%A0%91%E7%80%91%E5%B8%83",
+        "publisher": "维基百科",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "瀑布高度为77.8米，其中主瀑高67米；瀑布宽101米，其中主瀑顶宽83.3米。",
+        "media": { "type": "none" }
+      }
+    ],
+    "traceability": "A/B",
+    "notes": "高度、宽度与水帘洞形制有人民网 A 级来源，并与维基百科数值一致。徐霞客到访年份存在两种记载：中国网作1637年，中国日报网作1638年4月23日，两者并列不合并，不作裁决，需人工核对原始游记纪年。",
+    "tags": ["黄果树", "瀑布", "喀斯特", "水帘洞", "镇宁"],
+    "related_entry_ids": ["anshun-longgong-getuhe", "anshun-huangguoshu-marathon", "anshun-race-calendar"],
+    "narrative": {
+      "hook": "瀑布背后有一条134米长的洞",
+      "scene": "水从七十多米高的悬崖上直落犀牛潭，声似雷鸣，水雾腾起。大瀑布半腰横着一条长134米的水帘洞，6个洞窗、5个洞厅、3股洞泉、6段通道。从洞窗向外看，水自天上来。"
+    }
+  },
+  {
+    "entry_id": "anshun-longgong-getuhe",
+    "entry_no": "A13",
+    "entry_type": "place",
+    "title": "龙宫与格凸河",
+    "subtitle": "水溶洞与穿洞构成的两处喀斯特副线",
+    "category": ["喀斯特", "溶洞", "风景名胜区"],
+    "region": "安顺市西秀区与紫云自治县",
+    "coordinates": { "lat": 26.1, "lng": 105.87 },
+    "chapter_index": 0,
+    "scroll_anchor": "",
+    "hero_media": { "type": "none", "url": "", "fallback_url": "", "credit": "", "license": "" },
+    "summary": "龙宫景区位于安顺市西秀区龙宫镇，距安顺城区27公里，总面积60平方千米，核心游览区约18平方千米，1988年被评为第二批国家级风景名胜区，2007年被评为首批国家5A级旅游景区。格凸河风景名胜区位于紫云苗族布依族自治县，2005年被批准为第六批国家级风景名胜区。“格凸”一词为苗语，意译为“圣地”。",
+    "claims": [
+      {
+        "text": "龙宫景区位于安顺市西秀区龙宫镇，距安顺城区27公里，总面积60平方千米，核心游览区面积约18平方千米。",
+        "source_ids": ["src_01", "src_02"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "龙宫景区于1988年被评为第二批国家级风景名胜区，2007年被评为首批国家5A级旅游景区。",
+        "source_ids": ["src_01", "src_02"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "龙宫拥有世界最大、最多的水旱溶洞群，是天然辐射率最低的地方，龙门飞瀑是全国最大的洞穴瀑布。",
+        "source_ids": ["src_01"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "格凸河风景名胜区位于安顺市紫云苗族布依族自治县，2005年被批准为第六批国家级风景名胜区。",
+        "source_ids": ["src_03", "src_04"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "格凸河大穿洞洞口高116米、宽25米、进深270米，呈拱门形；每年清明至九月重阳，数以万计的格凸鹰燕在洞内栖息，故俗称“燕子洞”。",
+        "source_ids": ["src_04"],
+        "variant": "事实",
+        "confidence": "direct"
+      },
+      {
+        "text": "“格凸”一词为苗语，意译为“圣地”，格凸河景区集岩溶、山、水、洞、石、林于一体。",
+        "source_ids": ["src_04"],
+        "variant": "事实",
+        "confidence": "direct"
+      }
+    ],
+    "sources": [
+      {
+        "id": "src_01",
+        "title": "生肖属龙游客可免费游龙宫",
+        "url": "http://gz.news.cn/20240106/3f1d7510fba243f69782788015f71fc0/c.html",
+        "publisher": "新华网贵州频道",
+        "retrieved_at": "2026-11-14",
+        "tier": "A",
+        "excerpt": "景区1988年被评为第二批中国国家级风景名胜区，2007年被评为首批国家5A级旅游景区。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_02",
+        "title": "走进西秀区龙宫景区（贵州）",
+        "url": "http://jilu.china.com.cn/2024-12/24/content_42996497.htm",
+        "publisher": "中国网",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "景区开放于1984年，总面积60平方公里，核心游览区面积约18平方公里。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_03",
+        "title": "紫云格凸河穿洞",
+        "url": "https://gjgy.com/ziyunge.html",
+        "publisher": "中国风景名胜区网",
+        "retrieved_at": "2026-11-14",
+        "tier": "C",
+        "excerpt": "紫云格凸河穿洞是2005年国务院公布的第六批国家级风景名胜区。",
+        "media": { "type": "none" }
+      },
+      {
+        "id": "src_04",
+        "title": "贵州地名邀您“爽夏凉”——紫云格凸河：喀斯特奇观与苗族风情的完美融合",
+        "url": "https://news.qq.com/rain/a/20250623A041LP00",
+        "publisher": "腾讯新闻（转载贵州地名）",
+        "retrieved_at": "2026-11-14",
+        "tier": "B",
+        "excerpt": "于2005年被批准为第六批国家级风景名胜区；2006年6月被列入首批国家自然与文化双遗产名录。",
+        "media": { "type": "none" }
+      }
+    ],
+    "traceability": "A/B",
+    "notes": "龙宫的级别与年份有新华网 A 级来源；“世界最大、最多的水旱溶洞群”“天然辐射率最低”等表述为景区宣传口径，与 A 级来源并列不合并。格凸河第六批国家级风景名胜区一说由 C 级风景区网站与 B 级转载互证，建议核对国务院公布原文。",
+    "tags": ["龙宫", "格凸河", "喀斯特", "溶洞", "紫云"],
+    "related_entry_ids": ["anshun-huangguoshu-falls", "anshun-huangguoshu-marathon", "anshun-yunshantun"],
+    "narrative": {
+      "hook": "一半在水下，一半在洞口",
+      "scene": "龙宫的一进、二进水溶洞要乘船进去，头顶钟乳垂落，水面平得像镜子。往紫云去，格凸河的大穿洞张开一道高116米的拱门，清明到重阳，数万只鹰燕在洞厅里翻飞。"
+    }
+  }
+]
